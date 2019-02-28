@@ -1,0 +1,47 @@
+Drug,Group
+Amikacin,Amikacin
+Amoxycillin clavulanate,Amoxicillin-clavulanate
+Ampicillin,Aminopenicillins
+Azithromycin,Macrolides
+Cefepime,Cephalosporins (4th gen)
+Cefoxitin,Oxacillin
+Ceftazidime,Ceftazidime
+Ceftriaxone,Cephalosporins (3rd gen)
+Clarithromycin,Macrolides
+Clindamycin,Lincosamides
+Erythromycin,Macrolides
+Imipenem,Carbapenems
+Levofloxacin,Fluoroquinolones
+Linezolid,Linezolid
+Meropenem,Carbapenems
+Metronidazole,Nitroimidazole
+Minocycline,Tetracyclines
+Penicillin,Penicillins
+Piperacillin tazobactam,Piperacillin-tazobactam
+Tigecycline,Glycylcylines
+Vancomycin,Vancomycin
+Ampicillin sulbactam,Ampicillin-sulbactam
+Aztreonam,Monobactams
+Aztreonam avibactam,Aztreonam-avibactam
+Cefixime,Cephalosporins (3rd gen)
+Ceftaroline,Cephalosporins (5th gen)
+Ceftaroline avibactam,Ceftaroline-avibactam
+Ceftazidime avibactam,Ceftazidime-avibactam
+Ciprofloxacin,Fluoroquinolones
+Colistin,Polymixins
+ColistinP80,Polymixins
+Daptomycin,Polymixins
+Doripenem,Carbapenems
+Ertapenem,Carbapenems
+Gatifloxacin,Fluoroquinolones
+Gentamicin,Aminoglycosides
+Moxifloxacin,Fluoroquinolones
+Oxacillin,Oxacillin
+Quinupristin dalfopristin,Quinupristin-dalfopristin
+Sulbactam,Penicillins
+Teicoplanin,Glycopeptides
+Tetracycline,Tetracyclines
+Trimethoprim sulfa,Trimethoprim-sulfamethoxazole
+Ceftolozane tazobactam,Ceftolozane-tazobactam
+Tigecycline,Glycylcyclines
+Gentamicin (high-level),Aminoglycosides (high-level)

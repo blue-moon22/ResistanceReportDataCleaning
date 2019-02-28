@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1066050","TEST","Prevotella pallens","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2014",NA,"<=2","Susceptible","Cefoxitin"
+"1066050","TEST","Prevotella pallens","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2014",NA,"8","Resistant","Clindamycin"
+"1066050","TEST","Prevotella pallens","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2014",NA,"<=0.06","Susceptible","Meropenem"
+"1066050","TEST","Prevotella pallens","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2014",NA,"1","Susceptible","Metronidazole"
+"1066050","TEST","Prevotella pallens","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2014",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1066050","TEST","Prevotella pallens","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2014",NA,"0.12","Susceptible","Tigecycline"

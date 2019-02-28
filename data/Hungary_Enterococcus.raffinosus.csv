@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"0.12","Susceptible","Ampicillin"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"0.5","Susceptible","Levofloxacin"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"<=0.5","Susceptible","Linezolid"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"4","Susceptible","Minocycline"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"<=0.06","Susceptible","Penicillin"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"0.015","Susceptible","Tigecycline"
+"318698","TEST","Enterococcus raffinosus","Enterococcus spp","Hungary",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2007",NA,"0.5","Susceptible","Vancomycin"

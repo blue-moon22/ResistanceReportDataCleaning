@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.5","Susceptible","Ampicillin"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.5","Susceptible","Levofloxacin"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"1","Susceptible","Linezolid"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"<=0.25","Susceptible","Minocycline"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"2","Susceptible","Penicillin"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1501906","TEST","Enterococcus hirae","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.5","Susceptible","Vancomycin"

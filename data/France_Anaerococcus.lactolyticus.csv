@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1599820","TEST","Anaerococcus lactolyticus","Gram Positive Anaerobes","France",NA,"Male","85 and Over","Medicine General","CVS: Blood","Inpatient","2017",NA,"4","Intermediate","Clindamycin"
+"1599820","TEST","Anaerococcus lactolyticus","Gram Positive Anaerobes","France",NA,"Male","85 and Over","Medicine General","CVS: Blood","Inpatient","2017",NA,"0.5","Susceptible","Meropenem"
+"1599820","TEST","Anaerococcus lactolyticus","Gram Positive Anaerobes","France",NA,"Male","85 and Over","Medicine General","CVS: Blood","Inpatient","2017",NA,"1","Susceptible","Metronidazole"
+"1599820","TEST","Anaerococcus lactolyticus","Gram Positive Anaerobes","France",NA,"Male","85 and Over","Medicine General","CVS: Blood","Inpatient","2017",NA,"<=0.25","Susceptible","Penicillin"
+"1599820","TEST","Anaerococcus lactolyticus","Gram Positive Anaerobes","France",NA,"Male","85 and Over","Medicine General","CVS: Blood","Inpatient","2017",NA,"0.5","Susceptible","Piperacillin tazobactam"
+"1599820","TEST","Anaerococcus lactolyticus","Gram Positive Anaerobes","France",NA,"Male","85 and Over","Medicine General","CVS: Blood","Inpatient","2017",NA,"<=0.06","Susceptible","Tigecycline"

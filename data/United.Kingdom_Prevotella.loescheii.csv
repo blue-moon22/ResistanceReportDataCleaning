@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"772046","TEST","Prevotella loescheii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","Bodily Fluids: Tissue","None Given","2011",NA,"4","Susceptible","Cefoxitin"
+"772046","TEST","Prevotella loescheii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","Bodily Fluids: Tissue","None Given","2011",NA,"<=0.25","Susceptible","Clindamycin"
+"772046","TEST","Prevotella loescheii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","Bodily Fluids: Tissue","None Given","2011",NA,"0.12","Susceptible","Meropenem"
+"772046","TEST","Prevotella loescheii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","Bodily Fluids: Tissue","None Given","2011",NA,"<=0.12","Susceptible","Metronidazole"
+"772046","TEST","Prevotella loescheii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","Bodily Fluids: Tissue","None Given","2011",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"772046","TEST","Prevotella loescheii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","Bodily Fluids: Tissue","None Given","2011",NA,"<=0.06","Susceptible","Tigecycline"

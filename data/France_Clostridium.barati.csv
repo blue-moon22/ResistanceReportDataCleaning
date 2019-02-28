@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"808232","TEST","Clostridium barati","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Nursing Home / Rehab","Bodily Fluids: Abdominal","Outpatient","2012",NA,"4","Intermediate","Clindamycin"
+"808232","TEST","Clostridium barati","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Nursing Home / Rehab","Bodily Fluids: Abdominal","Outpatient","2012",NA,"0.12","Susceptible","Meropenem"
+"808232","TEST","Clostridium barati","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Nursing Home / Rehab","Bodily Fluids: Abdominal","Outpatient","2012",NA,"2","Susceptible","Metronidazole"
+"808232","TEST","Clostridium barati","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Nursing Home / Rehab","Bodily Fluids: Abdominal","Outpatient","2012",NA,"<=0.25","Susceptible","Penicillin"
+"808232","TEST","Clostridium barati","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Nursing Home / Rehab","Bodily Fluids: Abdominal","Outpatient","2012",NA,"0.5","Susceptible","Piperacillin tazobactam"
+"808232","TEST","Clostridium barati","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Nursing Home / Rehab","Bodily Fluids: Abdominal","Outpatient","2012",NA,"<=0.06","Susceptible","Tigecycline"

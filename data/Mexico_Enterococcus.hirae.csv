@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"0.25","Susceptible","Ampicillin"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"0.25","Susceptible","Levofloxacin"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"2","Susceptible","Linezolid"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"<=0.25","Susceptible","Minocycline"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"0.5","Susceptible","Penicillin"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"0.03","Susceptible","Tigecycline"
+"1047721","TEST","Enterococcus hirae","Enterococcus spp","Mexico",NA,NA,"Unknown","None Given","None Given","None Given","2013",NA,"0.5","Susceptible","Vancomycin"

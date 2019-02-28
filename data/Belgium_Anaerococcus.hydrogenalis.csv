@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1252645","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","Belgium",NA,"Male","19 to 64 Years","Clinic / Office","INT: Wound","Outpatient","2015",NA,">8","Resistant","Clindamycin"
+"1252645","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","Belgium",NA,"Male","19 to 64 Years","Clinic / Office","INT: Wound","Outpatient","2015",NA,"0.25","Susceptible","Meropenem"
+"1252645","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","Belgium",NA,"Male","19 to 64 Years","Clinic / Office","INT: Wound","Outpatient","2015",NA,"1","Susceptible","Metronidazole"
+"1252645","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","Belgium",NA,"Male","19 to 64 Years","Clinic / Office","INT: Wound","Outpatient","2015",NA,"1","Intermediate","Penicillin"
+"1252645","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","Belgium",NA,"Male","19 to 64 Years","Clinic / Office","INT: Wound","Outpatient","2015",NA,"1","Susceptible","Piperacillin tazobactam"
+"1252645","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","Belgium",NA,"Male","19 to 64 Years","Clinic / Office","INT: Wound","Outpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

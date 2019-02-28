@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"0.12","Susceptible","Ampicillin"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"4","Intermediate","Levofloxacin"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"1","Susceptible","Linezolid"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"<=0.25","Susceptible","Minocycline"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"0.12","Susceptible","Penicillin"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"0.03","Susceptible","Tigecycline"
+"396260","TEST","Enterococcus durans","Enterococcus spp","Croatia",NA,"Female","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2007",NA,"0.25","Susceptible","Vancomycin"

@@ -1,0 +1,4 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1685332","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Pakistan",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"16","Intermediate","Ceftazidime"
+"1685332","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Pakistan",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"2","Susceptible","Levofloxacin"
+"1685332","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Pakistan",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"<=0.5","Susceptible","Minocycline"

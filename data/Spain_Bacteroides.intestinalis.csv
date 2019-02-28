@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1163135","TEST","Bacteroides intestinalis","Gram Negative Anaerobes","Spain",NA,"Female","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2014",NA,"8","Susceptible","Cefoxitin"
+"1163135","TEST","Bacteroides intestinalis","Gram Negative Anaerobes","Spain",NA,"Female","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2014",NA,"4","Intermediate","Clindamycin"
+"1163135","TEST","Bacteroides intestinalis","Gram Negative Anaerobes","Spain",NA,"Female","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2014",NA,"0.25","Susceptible","Meropenem"
+"1163135","TEST","Bacteroides intestinalis","Gram Negative Anaerobes","Spain",NA,"Female","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2014",NA,"0.5","Susceptible","Metronidazole"
+"1163135","TEST","Bacteroides intestinalis","Gram Negative Anaerobes","Spain",NA,"Female","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2014",NA,"2","Susceptible","Piperacillin tazobactam"
+"1163135","TEST","Bacteroides intestinalis","Gram Negative Anaerobes","Spain",NA,"Female","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2014",NA,"1","Susceptible","Tigecycline"

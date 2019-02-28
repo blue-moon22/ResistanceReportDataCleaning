@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1230006","TEST","Prevotella bergensis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=2","Susceptible","Cefoxitin"
+"1230006","TEST","Prevotella bergensis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.25","Susceptible","Clindamycin"
+"1230006","TEST","Prevotella bergensis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.06","Susceptible","Meropenem"
+"1230006","TEST","Prevotella bergensis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.12","Susceptible","Metronidazole"
+"1230006","TEST","Prevotella bergensis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1230006","TEST","Prevotella bergensis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

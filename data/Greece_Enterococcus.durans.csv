@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"0.25","Susceptible","Ampicillin"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"2","Susceptible","Levofloxacin"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"<=0.5","Susceptible","Linezolid"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"<=0.25","Susceptible","Minocycline"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"0.5","Susceptible","Penicillin"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"0.06","Susceptible","Tigecycline"
+"215010","TEST","Enterococcus durans","Enterococcus spp","Greece",NA,"Female","3 to 12 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2005",NA,"0.25","Susceptible","Vancomycin"

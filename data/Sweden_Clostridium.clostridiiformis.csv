@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1140449","TEST","Clostridium clostridiiformis","Gram Positive Anaerobes","Sweden",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Other","None Given","2014",NA,"0.5","Susceptible","Clindamycin"
+"1140449","TEST","Clostridium clostridiiformis","Gram Positive Anaerobes","Sweden",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Other","None Given","2014",NA,"2","Susceptible","Meropenem"
+"1140449","TEST","Clostridium clostridiiformis","Gram Positive Anaerobes","Sweden",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Other","None Given","2014",NA,"<=0.12","Susceptible","Metronidazole"
+"1140449","TEST","Clostridium clostridiiformis","Gram Positive Anaerobes","Sweden",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Other","None Given","2014",NA,"32","Resistant","Penicillin"
+"1140449","TEST","Clostridium clostridiiformis","Gram Positive Anaerobes","Sweden",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Other","None Given","2014",NA,"8","Susceptible","Piperacillin tazobactam"
+"1140449","TEST","Clostridium clostridiiformis","Gram Positive Anaerobes","Sweden",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Other","None Given","2014",NA,"0.25","Susceptible","Tigecycline"

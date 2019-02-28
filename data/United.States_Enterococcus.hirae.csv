@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"0.25","Susceptible","Ampicillin"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"0.5","Susceptible","Levofloxacin"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"1","Susceptible","Linezolid"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"8","Intermediate","Minocycline"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"0.5","Susceptible","Penicillin"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"0.06","Susceptible","Tigecycline"
+"910460","TEST","Enterococcus hirae","Enterococcus spp","United States","Louisiana","Male","19 to 64 Years","None Given","CVS: Blood","None Given","2013",NA,"0.25","Susceptible","Vancomycin"

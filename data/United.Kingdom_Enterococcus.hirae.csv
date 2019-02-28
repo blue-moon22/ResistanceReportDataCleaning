@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"0.5","Susceptible","Ampicillin"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"0.5","Susceptible","Levofloxacin"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"2","Susceptible","Linezolid"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"8","Intermediate","Minocycline"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"1","Susceptible","Penicillin"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1396523","TEST","Enterococcus hirae","Enterococcus spp","United Kingdom",NA,"Male","65 to 84 Years","Medicine ICU","GI: Gall Bladder","Inpatient","2016",NA,"0.25","Susceptible","Vancomycin"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"2","Susceptible","Ampicillin"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"4","Intermediate","Levofloxacin"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"2","Susceptible","Linezolid"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"0.5","Susceptible","Minocycline"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"2","Susceptible","Penicillin"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"0.25","Susceptible","Tigecycline"
+"502243","TEST","Enterococcus, non-speciated","Enterococcus spp","Guatemala",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2008",NA,"2","Susceptible","Vancomycin"

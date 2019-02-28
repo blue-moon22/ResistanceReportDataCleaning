@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"0.5","Susceptible","Ampicillin"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"0.12","Susceptible","Levofloxacin"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"1","Susceptible","Linezolid"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"8","Intermediate","Minocycline"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"1","Susceptible","Penicillin"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"0.03","Susceptible","Tigecycline"
+"263532","TEST","Enterococcus durans","Enterococcus spp","Guatemala",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2006",NA,"0.5","Susceptible","Vancomycin"

@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1140466","TEST","Clostridium paraputrificum","Gram Positive Anaerobes","Sweden",NA,"Female","85 and Over","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"1","Susceptible","Clindamycin"
+"1140466","TEST","Clostridium paraputrificum","Gram Positive Anaerobes","Sweden",NA,"Female","85 and Over","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"1","Susceptible","Meropenem"
+"1140466","TEST","Clostridium paraputrificum","Gram Positive Anaerobes","Sweden",NA,"Female","85 and Over","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"0.5","Susceptible","Metronidazole"
+"1140466","TEST","Clostridium paraputrificum","Gram Positive Anaerobes","Sweden",NA,"Female","85 and Over","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"<=0.25","Susceptible","Penicillin"
+"1140466","TEST","Clostridium paraputrificum","Gram Positive Anaerobes","Sweden",NA,"Female","85 and Over","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"1","Susceptible","Piperacillin tazobactam"
+"1140466","TEST","Clostridium paraputrificum","Gram Positive Anaerobes","Sweden",NA,"Female","85 and Over","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"0.5","Susceptible","Tigecycline"

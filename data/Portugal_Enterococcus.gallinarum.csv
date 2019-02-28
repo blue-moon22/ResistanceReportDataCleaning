@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"1","Susceptible","Ampicillin"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"0.5","Susceptible","Levofloxacin"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"2","Susceptible","Linezolid"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"<=0.25","Susceptible","Minocycline"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"2","Susceptible","Penicillin"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"0.06","Susceptible","Tigecycline"
+"1282757","TEST","Enterococcus gallinarum","Enterococcus spp","Portugal",NA,"Female","85 and Over","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2015",NA,"4","Susceptible","Vancomycin"

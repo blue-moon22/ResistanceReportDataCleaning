@@ -1,0 +1,4 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1537211","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Croatia",NA,"Male","65 to 84 Years","Medicine ICU","Respiratory: Trachea","Inpatient","2016",NA,">16","Resistant","Ceftazidime"
+"1537211","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Croatia",NA,"Male","65 to 84 Years","Medicine ICU","Respiratory: Trachea","Inpatient","2016",NA,"0.25","Susceptible","Levofloxacin"
+"1537211","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Croatia",NA,"Male","65 to 84 Years","Medicine ICU","Respiratory: Trachea","Inpatient","2016",NA,"<=0.5","Susceptible","Minocycline"

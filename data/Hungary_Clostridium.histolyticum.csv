@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"582398","TEST","Clostridium histolyticum","Gram Positive Anaerobes","Hungary",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2009",NA,"0.5","Susceptible","Clindamycin"
+"582398","TEST","Clostridium histolyticum","Gram Positive Anaerobes","Hungary",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2009",NA,"0.5","Susceptible","Meropenem"
+"582398","TEST","Clostridium histolyticum","Gram Positive Anaerobes","Hungary",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2009",NA,"1","Susceptible","Metronidazole"
+"582398","TEST","Clostridium histolyticum","Gram Positive Anaerobes","Hungary",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2009",NA,"<=0.25","Susceptible","Penicillin"
+"582398","TEST","Clostridium histolyticum","Gram Positive Anaerobes","Hungary",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2009",NA,"2","Susceptible","Piperacillin tazobactam"
+"582398","TEST","Clostridium histolyticum","Gram Positive Anaerobes","Hungary",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2009",NA,"<=0.06","Susceptible","Tigecycline"

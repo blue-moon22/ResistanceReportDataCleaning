@@ -1,0 +1,3 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"993640","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Malaysia",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,"8","Susceptible","Ceftazidime"
+"993640","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Malaysia",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,">4","Resistant","Levofloxacin"

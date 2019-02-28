@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"0.5","Susceptible","Ampicillin"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"2","Susceptible","Levofloxacin"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"2","Susceptible","Linezolid"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"<=0.25","Susceptible","Minocycline"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"0.25","Susceptible","Penicillin"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"0.03","Susceptible","Tigecycline"
+"480382","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovenia",NA,"Female","19 to 64 Years","Medicine ICU","CVS: Blood","Inpatient","2008",NA,"2","Susceptible","Vancomycin"

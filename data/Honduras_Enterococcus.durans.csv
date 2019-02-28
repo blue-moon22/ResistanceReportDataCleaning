@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,">16","Resistant","Ampicillin"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,"1","Susceptible","Levofloxacin"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,"2","Susceptible","Linezolid"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,">8","Resistant","Minocycline"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,">8","Resistant","Penicillin"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,"0.25","Susceptible","Tigecycline"
+"610748","TEST","Enterococcus durans","Enterococcus spp","Honduras",NA,"Male","19 to 64 Years","Medicine General","GU: Urine","Inpatient","2009",NA,"0.5","Susceptible","Vancomycin"

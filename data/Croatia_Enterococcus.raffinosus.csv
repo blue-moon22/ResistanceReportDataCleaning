@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"1","Susceptible","Ampicillin"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"0.5","Susceptible","Levofloxacin"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"1","Susceptible","Linezolid"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"4","Susceptible","Minocycline"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"2","Susceptible","Penicillin"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"0.06","Susceptible","Tigecycline"
+"1537112","TEST","Enterococcus raffinosus","Enterococcus spp","Croatia",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2016",NA,"1","Susceptible","Vancomycin"

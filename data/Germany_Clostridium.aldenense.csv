@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1349043","TEST","Clostridium aldenense","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,">8","Resistant","Clindamycin"
+"1349043","TEST","Clostridium aldenense","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"1","Susceptible","Meropenem"
+"1349043","TEST","Clostridium aldenense","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"<=0.12","Susceptible","Metronidazole"
+"1349043","TEST","Clostridium aldenense","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"1","Intermediate","Penicillin"
+"1349043","TEST","Clostridium aldenense","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"4","Susceptible","Piperacillin tazobactam"
+"1349043","TEST","Clostridium aldenense","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

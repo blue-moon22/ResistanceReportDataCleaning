@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"542500","TEST","Eubacterium aerofaciens","Gram Positive Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.25","Susceptible","Clindamycin"
+"542500","TEST","Eubacterium aerofaciens","Gram Positive Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.06","Susceptible","Meropenem"
+"542500","TEST","Eubacterium aerofaciens","Gram Positive Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.12","Susceptible","Metronidazole"
+"542500","TEST","Eubacterium aerofaciens","Gram Positive Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.25","Susceptible","Penicillin"
+"542500","TEST","Eubacterium aerofaciens","Gram Positive Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"542500","TEST","Eubacterium aerofaciens","Gram Positive Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.06","Susceptible","Tigecycline"

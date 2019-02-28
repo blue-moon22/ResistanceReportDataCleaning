@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,"2","Susceptible","Ampicillin"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,">32","Resistant","Levofloxacin"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,"1","Susceptible","Linezolid"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,">8","Resistant","Minocycline"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,"4","Susceptible","Penicillin"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,"0.12","Susceptible","Tigecycline"
+"707511","TEST","Enterococcus durans","Enterococcus spp","Lithuania",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2010",NA,"1","Susceptible","Vancomycin"

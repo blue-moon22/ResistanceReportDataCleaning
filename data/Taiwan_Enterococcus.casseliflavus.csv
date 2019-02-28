@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"0.5","Susceptible","Ampicillin"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"2","Susceptible","Levofloxacin"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"2","Susceptible","Linezolid"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"8","Intermediate","Minocycline"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"0.5","Susceptible","Penicillin"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"0.25","Susceptible","Tigecycline"
+"248525","TEST","Enterococcus casseliflavus","Enterococcus spp","Taiwan",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"4","Susceptible","Vancomycin"

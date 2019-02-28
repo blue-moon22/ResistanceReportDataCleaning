@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1612511","TEST","Clostridium colicanis","Gram Positive Anaerobes","Czech Republic",NA,"Female","13 to 18 Years","Surgery General","Reproductive: Vagina","Inpatient","2017",NA,"<=0.25","Susceptible","Clindamycin"
+"1612511","TEST","Clostridium colicanis","Gram Positive Anaerobes","Czech Republic",NA,"Female","13 to 18 Years","Surgery General","Reproductive: Vagina","Inpatient","2017",NA,"<=0.06","Susceptible","Meropenem"
+"1612511","TEST","Clostridium colicanis","Gram Positive Anaerobes","Czech Republic",NA,"Female","13 to 18 Years","Surgery General","Reproductive: Vagina","Inpatient","2017",NA,"0.5","Susceptible","Metronidazole"
+"1612511","TEST","Clostridium colicanis","Gram Positive Anaerobes","Czech Republic",NA,"Female","13 to 18 Years","Surgery General","Reproductive: Vagina","Inpatient","2017",NA,"<=0.25","Susceptible","Penicillin"
+"1612511","TEST","Clostridium colicanis","Gram Positive Anaerobes","Czech Republic",NA,"Female","13 to 18 Years","Surgery General","Reproductive: Vagina","Inpatient","2017",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"1612511","TEST","Clostridium colicanis","Gram Positive Anaerobes","Czech Republic",NA,"Female","13 to 18 Years","Surgery General","Reproductive: Vagina","Inpatient","2017",NA,"0.5","Susceptible","Tigecycline"

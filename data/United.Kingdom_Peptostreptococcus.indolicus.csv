@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"541853","TEST","Peptostreptococcus indolicus","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.25","Susceptible","Clindamycin"
+"541853","TEST","Peptostreptococcus indolicus","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Meropenem"
+"541853","TEST","Peptostreptococcus indolicus","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"0.5","Susceptible","Metronidazole"
+"541853","TEST","Peptostreptococcus indolicus","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.25","Susceptible","Penicillin"
+"541853","TEST","Peptostreptococcus indolicus","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"541853","TEST","Peptostreptococcus indolicus","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Tigecycline"

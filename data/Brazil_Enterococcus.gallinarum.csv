@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"1","Susceptible","Ampicillin"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"2","Susceptible","Levofloxacin"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"2","Susceptible","Linezolid"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"4","Susceptible","Minocycline"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"1","Susceptible","Penicillin"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"0.12","Susceptible","Tigecycline"
+"1231572","TEST","Enterococcus gallinarum","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"8","Intermediate","Vancomycin"

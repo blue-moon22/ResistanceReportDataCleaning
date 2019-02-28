@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,">16","Resistant","Ampicillin"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,">32","Resistant","Levofloxacin"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"1","Susceptible","Linezolid"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"1","Susceptible","Minocycline"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,">8","Resistant","Penicillin"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"0.12","Susceptible","Tigecycline"
+"454191","TEST","Enterococcus casseliflavus","Enterococcus spp","Turkey",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"1","Susceptible","Vancomycin"

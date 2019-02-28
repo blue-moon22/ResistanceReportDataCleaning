@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,"8","Susceptible","Ampicillin"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,"2","Susceptible","Levofloxacin"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,"2","Susceptible","Linezolid"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,"8","Intermediate","Minocycline"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,">8","Resistant","Penicillin"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1522350","TEST","Enterococcus avium","Enterococcus spp","China",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2016",NA,"0.25","Susceptible","Vancomycin"

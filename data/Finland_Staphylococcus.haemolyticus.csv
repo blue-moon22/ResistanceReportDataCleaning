@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1177952","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Finland",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2014",NA,"16","Resistant","Levofloxacin"
+"1177952","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Finland",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2014",NA,"1","Susceptible","Linezolid"
+"1177952","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Finland",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2014",NA,"<=0.25","Susceptible","Minocycline"
+"1177952","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Finland",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2014",NA,"1","Resistant","Penicillin"
+"1177952","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Finland",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2014",NA,"0.06","Susceptible","Tigecycline"
+"1177952","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Finland",NA,"Male","19 to 64 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2014",NA,"0.5","Susceptible","Vancomycin"

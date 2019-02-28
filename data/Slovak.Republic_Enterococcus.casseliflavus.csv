@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,">16","Resistant","Ampicillin"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,"2","Susceptible","Levofloxacin"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,"2","Susceptible","Linezolid"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,">8","Resistant","Minocycline"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,">8","Resistant","Penicillin"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,"0.12","Susceptible","Tigecycline"
+"597372","TEST","Enterococcus casseliflavus","Enterococcus spp","Slovak Republic",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2009",NA,"0.5","Susceptible","Vancomycin"

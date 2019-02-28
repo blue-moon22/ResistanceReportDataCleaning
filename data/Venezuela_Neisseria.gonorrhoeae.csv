@@ -1,0 +1,6 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1073878","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Venezuela",NA,"Male","19 to 64 Years","Medicine General","GU: Urethra","Inpatient","2014",NA,"0.06","Susceptible","Ceftazidime"
+"1073878","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Venezuela",NA,"Male","19 to 64 Years","Medicine General","GU: Urethra","Inpatient","2014",NA,"0.008","Susceptible","Ceftriaxone"
+"1073878","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Venezuela",NA,"Male","19 to 64 Years","Medicine General","GU: Urethra","Inpatient","2014",NA,"0.008","Susceptible","Cefixime"
+"1073878","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Venezuela",NA,"Male","19 to 64 Years","Medicine General","GU: Urethra","Inpatient","2014",NA,">1","Resistant","Ciprofloxacin"
+"1073878","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Venezuela",NA,"Male","19 to 64 Years","Medicine General","GU: Urethra","Inpatient","2014",NA,"0.5","Intermediate","Tetracycline"

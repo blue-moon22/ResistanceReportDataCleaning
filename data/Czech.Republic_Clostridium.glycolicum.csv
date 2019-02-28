@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"342616","TEST","Clostridium glycolicum","Gram Positive Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"1","Susceptible","Clindamycin"
+"342616","TEST","Clostridium glycolicum","Gram Positive Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"1","Susceptible","Meropenem"
+"342616","TEST","Clostridium glycolicum","Gram Positive Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"0.25","Susceptible","Metronidazole"
+"342616","TEST","Clostridium glycolicum","Gram Positive Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"<=0.25","Susceptible","Penicillin"
+"342616","TEST","Clostridium glycolicum","Gram Positive Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"2","Susceptible","Piperacillin tazobactam"
+"342616","TEST","Clostridium glycolicum","Gram Positive Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"0.12","Susceptible","Tigecycline"

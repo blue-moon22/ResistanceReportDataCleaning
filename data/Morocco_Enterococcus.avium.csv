@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"0.5","Susceptible","Ampicillin"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"1","Susceptible","Levofloxacin"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"2","Susceptible","Linezolid"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"4","Susceptible","Minocycline"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"1","Susceptible","Penicillin"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"0.03","Susceptible","Tigecycline"
+"945442","TEST","Enterococcus avium","Enterococcus spp","Morocco",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Abscess / Pus","None Given","2013",NA,"0.5","Susceptible","Vancomycin"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"2","Susceptible","Ampicillin"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"0.5","Susceptible","Levofloxacin"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"2","Susceptible","Linezolid"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"<=0.25","Susceptible","Minocycline"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"8","Susceptible","Penicillin"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"0.03","Susceptible","Tigecycline"
+"335324","TEST","Enterococcus durans","Enterococcus spp","South Africa",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2007",NA,"0.5","Susceptible","Vancomycin"

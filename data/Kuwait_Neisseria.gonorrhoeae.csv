@@ -1,0 +1,6 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1109696","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Kuwait",NA,"Female","19 to 64 Years","Medicine ICU","GI: Other","Inpatient","2014",NA,"0.25","Susceptible","Ceftazidime"
+"1109696","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Kuwait",NA,"Female","19 to 64 Years","Medicine ICU","GI: Other","Inpatient","2014",NA,"0.03","Susceptible","Ceftriaxone"
+"1109696","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Kuwait",NA,"Female","19 to 64 Years","Medicine ICU","GI: Other","Inpatient","2014",NA,"0.03","Susceptible","Cefixime"
+"1109696","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Kuwait",NA,"Female","19 to 64 Years","Medicine ICU","GI: Other","Inpatient","2014",NA,">1","Resistant","Ciprofloxacin"
+"1109696","Inform","Neisseria gonorrhoeae","Neisseria gonorrhoeae","Kuwait",NA,"Female","19 to 64 Years","Medicine ICU","GI: Other","Inpatient","2014",NA,"0.5","Intermediate","Tetracycline"

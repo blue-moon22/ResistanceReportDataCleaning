@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1197850","TEST","Clostridium disporicum","Gram Positive Anaerobes","Belgium",NA,"Male","85 and Over","Surgery General","Bodily Fluids","Inpatient","2015",NA,"<=0.25","Susceptible","Clindamycin"
+"1197850","TEST","Clostridium disporicum","Gram Positive Anaerobes","Belgium",NA,"Male","85 and Over","Surgery General","Bodily Fluids","Inpatient","2015",NA,"<=0.06","Susceptible","Meropenem"
+"1197850","TEST","Clostridium disporicum","Gram Positive Anaerobes","Belgium",NA,"Male","85 and Over","Surgery General","Bodily Fluids","Inpatient","2015",NA,"0.25","Susceptible","Metronidazole"
+"1197850","TEST","Clostridium disporicum","Gram Positive Anaerobes","Belgium",NA,"Male","85 and Over","Surgery General","Bodily Fluids","Inpatient","2015",NA,"<=0.25","Susceptible","Penicillin"
+"1197850","TEST","Clostridium disporicum","Gram Positive Anaerobes","Belgium",NA,"Male","85 and Over","Surgery General","Bodily Fluids","Inpatient","2015",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1197850","TEST","Clostridium disporicum","Gram Positive Anaerobes","Belgium",NA,"Male","85 and Over","Surgery General","Bodily Fluids","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

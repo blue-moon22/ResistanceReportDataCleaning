@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1196239","TEST","Peptoniphilus spp","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.25","Susceptible","Clindamycin"
+"1196239","TEST","Peptoniphilus spp","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.06","Susceptible","Meropenem"
+"1196239","TEST","Peptoniphilus spp","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.12","Susceptible","Metronidazole"
+"1196239","TEST","Peptoniphilus spp","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.25","Susceptible","Penicillin"
+"1196239","TEST","Peptoniphilus spp","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1196239","TEST","Peptoniphilus spp","Gram Positive Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

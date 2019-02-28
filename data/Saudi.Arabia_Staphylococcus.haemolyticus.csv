@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"826906","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Saudi Arabia",NA,"Female","19 to 64 Years","None Given","INT: Burn","None Given","2012",NA,"4","Resistant","Levofloxacin"
+"826906","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Saudi Arabia",NA,"Female","19 to 64 Years","None Given","INT: Burn","None Given","2012",NA,"<=0.5","Susceptible","Linezolid"
+"826906","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Saudi Arabia",NA,"Female","19 to 64 Years","None Given","INT: Burn","None Given","2012",NA,"<=0.25","Susceptible","Minocycline"
+"826906","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Saudi Arabia",NA,"Female","19 to 64 Years","None Given","INT: Burn","None Given","2012",NA,">8","Resistant","Penicillin"
+"826906","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Saudi Arabia",NA,"Female","19 to 64 Years","None Given","INT: Burn","None Given","2012",NA,"0.12","Susceptible","Tigecycline"
+"826906","TEST","Staphylococcus haemolyticus","Staphylococcus spp","Saudi Arabia",NA,"Female","19 to 64 Years","None Given","INT: Burn","None Given","2012",NA,"1","Susceptible","Vancomycin"

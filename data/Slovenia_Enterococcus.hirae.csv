@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"0.5","Susceptible","Ampicillin"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"1","Susceptible","Levofloxacin"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"2","Susceptible","Linezolid"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"<=0.25","Susceptible","Minocycline"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"4","Susceptible","Penicillin"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"0.12","Susceptible","Tigecycline"
+"480356","TEST","Enterococcus hirae","Enterococcus spp","Slovenia",NA,"Male","65 to 84 Years","Medicine General","CVS: Blood","Inpatient","2008",NA,"1","Susceptible","Vancomycin"

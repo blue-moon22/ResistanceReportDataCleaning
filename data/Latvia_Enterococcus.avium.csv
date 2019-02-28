@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"0.5","Susceptible","Ampicillin"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"2","Susceptible","Levofloxacin"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"1","Susceptible","Linezolid"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"8","Intermediate","Minocycline"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"1","Susceptible","Penicillin"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"0.06","Susceptible","Tigecycline"
+"169818","TEST","Enterococcus avium","Enterococcus spp","Latvia",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2005",NA,"0.5","Susceptible","Vancomycin"

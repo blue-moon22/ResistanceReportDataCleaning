@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"989127","TEST","Peptostreptococcus tetradius","Gram Positive Anaerobes","Spain",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2013",NA,"<=0.25","Susceptible","Clindamycin"
+"989127","TEST","Peptostreptococcus tetradius","Gram Positive Anaerobes","Spain",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Meropenem"
+"989127","TEST","Peptostreptococcus tetradius","Gram Positive Anaerobes","Spain",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2013",NA,"1","Susceptible","Metronidazole"
+"989127","TEST","Peptostreptococcus tetradius","Gram Positive Anaerobes","Spain",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2013",NA,"<=0.25","Susceptible","Penicillin"
+"989127","TEST","Peptostreptococcus tetradius","Gram Positive Anaerobes","Spain",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"989127","TEST","Peptostreptococcus tetradius","Gram Positive Anaerobes","Spain",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Tigecycline"

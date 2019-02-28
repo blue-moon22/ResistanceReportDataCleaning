@@ -1,0 +1,4 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"433454","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Australia",NA,"Male","19 to 64 Years","Surgery General","Respiratory: Trachea","Inpatient","2008",NA,"<=8","Susceptible","Ceftazidime"
+"433454","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Australia",NA,"Male","19 to 64 Years","Surgery General","Respiratory: Trachea","Inpatient","2008",NA,"1","Susceptible","Levofloxacin"
+"433454","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Australia",NA,"Male","19 to 64 Years","Surgery General","Respiratory: Trachea","Inpatient","2008",NA,"1","Susceptible","Minocycline"

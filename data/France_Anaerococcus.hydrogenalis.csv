@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1085995","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","France",NA,"Female","0 to 2 Years","Pediatric ICU","Respiratory: Trachea","Inpatient","2014",NA,"<=0.25","Susceptible","Clindamycin"
+"1085995","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","France",NA,"Female","0 to 2 Years","Pediatric ICU","Respiratory: Trachea","Inpatient","2014",NA,"<=0.06","Susceptible","Meropenem"
+"1085995","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","France",NA,"Female","0 to 2 Years","Pediatric ICU","Respiratory: Trachea","Inpatient","2014",NA,"0.5","Susceptible","Metronidazole"
+"1085995","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","France",NA,"Female","0 to 2 Years","Pediatric ICU","Respiratory: Trachea","Inpatient","2014",NA,"<=0.25","Susceptible","Penicillin"
+"1085995","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","France",NA,"Female","0 to 2 Years","Pediatric ICU","Respiratory: Trachea","Inpatient","2014",NA,"0.12","Susceptible","Piperacillin tazobactam"
+"1085995","TEST","Anaerococcus hydrogenalis","Gram Positive Anaerobes","France",NA,"Female","0 to 2 Years","Pediatric ICU","Respiratory: Trachea","Inpatient","2014",NA,"<=0.06","Susceptible","Tigecycline"

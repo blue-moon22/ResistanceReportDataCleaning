@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.06","Susceptible","Ampicillin"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.06","Susceptible","Levofloxacin"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.5","Susceptible","Linezolid"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.25","Susceptible","Minocycline"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.06","Susceptible","Penicillin"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.008","Susceptible","Tigecycline"
+"243909","TEST","Enterococcus, non-speciated","Enterococcus spp","Philippines",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids","Inpatient","2006",NA,"<=0.12","Susceptible","Vancomycin"

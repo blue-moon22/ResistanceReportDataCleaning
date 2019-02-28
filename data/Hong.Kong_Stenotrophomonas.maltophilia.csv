@@ -1,0 +1,6 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1151011","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Hong Kong",NA,"Female","19 to 64 Years","Medicine ICU","Respiratory: Endotracheal aspirate","Inpatient","2014",NA,">128","Resistant","Ceftazidime"
+"309727","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Hong Kong",NA,"Female","0 to 2 Years","Pediatric General","Respiratory: Trachea","Inpatient","2007",NA,"<=8","Susceptible","Ceftazidime"
+"1151011","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Hong Kong",NA,"Female","19 to 64 Years","Medicine ICU","Respiratory: Endotracheal aspirate","Inpatient","2014",NA,"2","Susceptible","Levofloxacin"
+"309727","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Hong Kong",NA,"Female","0 to 2 Years","Pediatric General","Respiratory: Trachea","Inpatient","2007",NA,"0.5","Susceptible","Levofloxacin"
+"309727","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Hong Kong",NA,"Female","0 to 2 Years","Pediatric General","Respiratory: Trachea","Inpatient","2007",NA,"<=0.5","Susceptible","Minocycline"

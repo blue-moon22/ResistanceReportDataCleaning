@@ -1,0 +1,4 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"724285","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Slovenia",NA,"Male","19 to 64 Years","Surgery General","GI: Appendix","Inpatient","2011",NA,"2","Susceptible","Ceftazidime"
+"724285","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Slovenia",NA,"Male","19 to 64 Years","Surgery General","GI: Appendix","Inpatient","2011",NA,"2","Susceptible","Levofloxacin"
+"724285","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Slovenia",NA,"Male","19 to 64 Years","Surgery General","GI: Appendix","Inpatient","2011",NA,"1","Susceptible","Minocycline"

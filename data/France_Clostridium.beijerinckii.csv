@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1220593","TEST","Clostridium beijerinckii","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Medicine ICU","CVS: Blood","Inpatient","2015",NA,"4","Intermediate","Clindamycin"
+"1220593","TEST","Clostridium beijerinckii","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Medicine ICU","CVS: Blood","Inpatient","2015",NA,"<=0.06","Susceptible","Meropenem"
+"1220593","TEST","Clostridium beijerinckii","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Medicine ICU","CVS: Blood","Inpatient","2015",NA,"0.25","Susceptible","Metronidazole"
+"1220593","TEST","Clostridium beijerinckii","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Medicine ICU","CVS: Blood","Inpatient","2015",NA,"<=0.25","Susceptible","Penicillin"
+"1220593","TEST","Clostridium beijerinckii","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Medicine ICU","CVS: Blood","Inpatient","2015",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1220593","TEST","Clostridium beijerinckii","Gram Positive Anaerobes","France",NA,"Male","65 to 84 Years","Medicine ICU","CVS: Blood","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"0.12","Susceptible","Ampicillin"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"4","Intermediate","Levofloxacin"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"<=0.5","Susceptible","Linezolid"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"2","Susceptible","Minocycline"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"<=0.06","Susceptible","Penicillin"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"0.12","Susceptible","Tigecycline"
+"565654","TEST","Enterococcus, non-speciated","Enterococcus spp","Croatia",NA,"Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2009",NA,"1","Susceptible","Vancomycin"

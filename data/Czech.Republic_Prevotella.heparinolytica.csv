@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1612549","TEST","Prevotella heparinolytica","Gram Negative Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=2","Susceptible","Cefoxitin"
+"1612549","TEST","Prevotella heparinolytica","Gram Negative Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.25","Susceptible","Clindamycin"
+"1612549","TEST","Prevotella heparinolytica","Gram Negative Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"0.12","Susceptible","Meropenem"
+"1612549","TEST","Prevotella heparinolytica","Gram Negative Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"0.25","Susceptible","Metronidazole"
+"1612549","TEST","Prevotella heparinolytica","Gram Negative Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1612549","TEST","Prevotella heparinolytica","Gram Negative Anaerobes","Czech Republic",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"0.12","Susceptible","Tigecycline"

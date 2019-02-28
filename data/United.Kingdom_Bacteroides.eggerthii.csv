@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"541864","TEST","Bacteroides eggerthii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=2","Susceptible","Cefoxitin"
+"541864","TEST","Bacteroides eggerthii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"0.5","Susceptible","Clindamycin"
+"541864","TEST","Bacteroides eggerthii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Meropenem"
+"541864","TEST","Bacteroides eggerthii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.12","Susceptible","Metronidazole"
+"541864","TEST","Bacteroides eggerthii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"1","Susceptible","Piperacillin tazobactam"
+"541864","TEST","Bacteroides eggerthii","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Tigecycline"

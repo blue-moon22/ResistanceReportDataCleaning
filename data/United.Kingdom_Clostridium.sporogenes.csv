@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"505089","TEST","Clostridium sporogenes","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,">8","Resistant","Clindamycin"
+"505089","TEST","Clostridium sporogenes","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.06","Susceptible","Meropenem"
+"505089","TEST","Clostridium sporogenes","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.12","Susceptible","Metronidazole"
+"505089","TEST","Clostridium sporogenes","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.25","Susceptible","Penicillin"
+"505089","TEST","Clostridium sporogenes","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"505089","TEST","Clostridium sporogenes","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.06","Susceptible","Tigecycline"

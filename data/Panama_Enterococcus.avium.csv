@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"0.5","Susceptible","Ampicillin"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"2","Susceptible","Levofloxacin"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"1","Susceptible","Linezolid"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"0.5","Susceptible","Minocycline"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"1","Susceptible","Penicillin"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"0.06","Susceptible","Tigecycline"
+"435621","TEST","Enterococcus avium","Enterococcus spp","Panama",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abdominal","Inpatient","2008",NA,"0.5","Susceptible","Vancomycin"

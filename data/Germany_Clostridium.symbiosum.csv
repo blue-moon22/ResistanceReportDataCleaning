@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"388707","TEST","Clostridium symbiosum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.25","Susceptible","Clindamycin"
+"388707","TEST","Clostridium symbiosum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"0.12","Susceptible","Meropenem"
+"388707","TEST","Clostridium symbiosum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"0.25","Susceptible","Metronidazole"
+"388707","TEST","Clostridium symbiosum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.25","Susceptible","Penicillin"
+"388707","TEST","Clostridium symbiosum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"388707","TEST","Clostridium symbiosum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.06","Susceptible","Tigecycline"

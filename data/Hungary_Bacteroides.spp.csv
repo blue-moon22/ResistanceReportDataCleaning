@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"542845","TEST","Bacteroides spp","Gram Negative Anaerobes","Hungary",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2009",NA,"16","Susceptible","Cefoxitin"
+"542845","TEST","Bacteroides spp","Gram Negative Anaerobes","Hungary",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2009",NA,"<=0.25","Susceptible","Clindamycin"
+"542845","TEST","Bacteroides spp","Gram Negative Anaerobes","Hungary",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2009",NA,"0.12","Susceptible","Meropenem"
+"542845","TEST","Bacteroides spp","Gram Negative Anaerobes","Hungary",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2009",NA,"0.5","Susceptible","Metronidazole"
+"542845","TEST","Bacteroides spp","Gram Negative Anaerobes","Hungary",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2009",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"542845","TEST","Bacteroides spp","Gram Negative Anaerobes","Hungary",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Ulcer","Inpatient","2009",NA,"0.25","Susceptible","Tigecycline"

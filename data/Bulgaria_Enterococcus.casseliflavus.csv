@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"0.5","Susceptible","Ampicillin"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"2","Susceptible","Levofloxacin"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"1","Susceptible","Linezolid"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"<=0.25","Susceptible","Minocycline"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"0.5","Susceptible","Penicillin"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"0.06","Susceptible","Tigecycline"
+"509189","TEST","Enterococcus casseliflavus","Enterococcus spp","Bulgaria",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2009",NA,"2","Susceptible","Vancomycin"

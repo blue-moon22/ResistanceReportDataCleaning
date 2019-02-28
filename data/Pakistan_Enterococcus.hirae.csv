@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"0.5","Susceptible","Ampicillin"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"0.5","Susceptible","Levofloxacin"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"2","Susceptible","Linezolid"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"<=0.25","Susceptible","Minocycline"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"1","Susceptible","Penicillin"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"0.03","Susceptible","Tigecycline"
+"1242586","TEST","Enterococcus hirae","Enterococcus spp","Pakistan",NA,"Female","19 to 64 Years","None Given","Bodily Fluids: Abdominal","None Given","2015",NA,"0.5","Susceptible","Vancomycin"

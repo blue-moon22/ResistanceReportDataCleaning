@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"0.5","Susceptible","Ampicillin"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"8","Resistant","Levofloxacin"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"2","Susceptible","Linezolid"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"<=0.25","Susceptible","Minocycline"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"2","Susceptible","Penicillin"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"0.06","Susceptible","Tigecycline"
+"255805","TEST","Enterococcus durans","Enterococcus spp","Brazil",NA,"Male","3 to 12 Years","Pediatric General","Bodily Fluids: Peritoneal","Inpatient","2006",NA,"0.5","Susceptible","Vancomycin"

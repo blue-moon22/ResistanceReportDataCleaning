@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1456493","TEST","Peptoniphilus gorbachii","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","Inpatient","2016",NA,"<=0.25","Susceptible","Clindamycin"
+"1456493","TEST","Peptoniphilus gorbachii","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","Inpatient","2016",NA,"<=0.06","Susceptible","Meropenem"
+"1456493","TEST","Peptoniphilus gorbachii","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","Inpatient","2016",NA,"<=0.12","Susceptible","Metronidazole"
+"1456493","TEST","Peptoniphilus gorbachii","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","Inpatient","2016",NA,"<=0.25","Susceptible","Penicillin"
+"1456493","TEST","Peptoniphilus gorbachii","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","Inpatient","2016",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1456493","TEST","Peptoniphilus gorbachii","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","Inpatient","2016",NA,"<=0.06","Susceptible","Tigecycline"

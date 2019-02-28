@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"388631","TEST","Peptoniphilus indolicus","Gram Positive Anaerobes","France",NA,"Female","Unknown","None Given","Reproductive: Other","None Given","2007",NA,"<=0.25","Susceptible","Clindamycin"
+"388631","TEST","Peptoniphilus indolicus","Gram Positive Anaerobes","France",NA,"Female","Unknown","None Given","Reproductive: Other","None Given","2007",NA,"<=0.06","Susceptible","Meropenem"
+"388631","TEST","Peptoniphilus indolicus","Gram Positive Anaerobes","France",NA,"Female","Unknown","None Given","Reproductive: Other","None Given","2007",NA,"1","Susceptible","Metronidazole"
+"388631","TEST","Peptoniphilus indolicus","Gram Positive Anaerobes","France",NA,"Female","Unknown","None Given","Reproductive: Other","None Given","2007",NA,"<=0.25","Susceptible","Penicillin"
+"388631","TEST","Peptoniphilus indolicus","Gram Positive Anaerobes","France",NA,"Female","Unknown","None Given","Reproductive: Other","None Given","2007",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"388631","TEST","Peptoniphilus indolicus","Gram Positive Anaerobes","France",NA,"Female","Unknown","None Given","Reproductive: Other","None Given","2007",NA,"<=0.06","Susceptible","Tigecycline"

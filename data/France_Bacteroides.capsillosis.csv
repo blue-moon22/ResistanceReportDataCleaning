@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"669066","TEST","Bacteroides capsillosis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Emergency Room","Bodily Fluids","Outpatient","2010",NA,"4","Susceptible","Cefoxitin"
+"669066","TEST","Bacteroides capsillosis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Emergency Room","Bodily Fluids","Outpatient","2010",NA,"<=0.25","Susceptible","Clindamycin"
+"669066","TEST","Bacteroides capsillosis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Emergency Room","Bodily Fluids","Outpatient","2010",NA,"<=0.06","Susceptible","Meropenem"
+"669066","TEST","Bacteroides capsillosis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Emergency Room","Bodily Fluids","Outpatient","2010",NA,"0.5","Susceptible","Metronidazole"
+"669066","TEST","Bacteroides capsillosis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Emergency Room","Bodily Fluids","Outpatient","2010",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"669066","TEST","Bacteroides capsillosis","Gram Negative Anaerobes","France",NA,"Male","65 to 84 Years","Emergency Room","Bodily Fluids","Outpatient","2010",NA,"0.25","Susceptible","Tigecycline"

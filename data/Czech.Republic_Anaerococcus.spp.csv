@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"970421","TEST","Anaerococcus spp","Gram Positive Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,">8","Resistant","Clindamycin"
+"970421","TEST","Anaerococcus spp","Gram Positive Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Meropenem"
+"970421","TEST","Anaerococcus spp","Gram Positive Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,"1","Susceptible","Metronidazole"
+"970421","TEST","Anaerococcus spp","Gram Positive Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,"<=0.25","Susceptible","Penicillin"
+"970421","TEST","Anaerococcus spp","Gram Positive Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"970421","TEST","Anaerococcus spp","Gram Positive Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Tigecycline"

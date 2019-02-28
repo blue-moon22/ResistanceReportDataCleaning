@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"541888","TEST","Prevotella intermedia","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=2","Susceptible","Cefoxitin"
+"541888","TEST","Prevotella intermedia","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.25","Susceptible","Clindamycin"
+"541888","TEST","Prevotella intermedia","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Meropenem"
+"541888","TEST","Prevotella intermedia","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"0.5","Susceptible","Metronidazole"
+"541888","TEST","Prevotella intermedia","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"541888","TEST","Prevotella intermedia","Gram Negative Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2009",NA,"<=0.06","Susceptible","Tigecycline"

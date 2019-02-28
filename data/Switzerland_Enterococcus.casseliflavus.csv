@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"0.5","Susceptible","Ampicillin"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"1","Susceptible","Levofloxacin"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"2","Susceptible","Linezolid"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"<=0.25","Susceptible","Minocycline"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"0.5","Susceptible","Penicillin"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1492177","TEST","Enterococcus casseliflavus","Enterococcus spp","Switzerland",NA,"Male","19 to 64 Years","Surgery General","CVS: Blood","Inpatient","2016",NA,"2","Susceptible","Vancomycin"

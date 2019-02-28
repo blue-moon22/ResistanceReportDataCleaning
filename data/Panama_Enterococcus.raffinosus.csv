@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"2","Susceptible","Ampicillin"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"0.25","Susceptible","Levofloxacin"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"<=0.5","Susceptible","Linezolid"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"4","Susceptible","Minocycline"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"4","Susceptible","Penicillin"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"0.06","Susceptible","Tigecycline"
+"435623","TEST","Enterococcus raffinosus","Enterococcus spp","Panama",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Peritoneal","Inpatient","2008",NA,"8","Intermediate","Vancomycin"

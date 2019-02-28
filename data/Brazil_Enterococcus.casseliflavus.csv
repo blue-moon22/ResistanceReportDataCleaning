@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"<=0.06","Susceptible","Ampicillin"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"4","Intermediate","Levofloxacin"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"1","Susceptible","Linezolid"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"<=0.25","Susceptible","Minocycline"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"0.12","Susceptible","Penicillin"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"0.12","Susceptible","Tigecycline"
+"1685148","TEST","Enterococcus casseliflavus","Enterococcus spp","Brazil",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Bile","Inpatient","2017",NA,"0.25","Susceptible","Vancomycin"

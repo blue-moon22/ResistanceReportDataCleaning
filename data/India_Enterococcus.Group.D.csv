@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,">16","Resistant","Ampicillin"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,"8","Resistant","Levofloxacin"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,"2","Susceptible","Linezolid"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,"4","Susceptible","Minocycline"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,">8","Resistant","Penicillin"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,"0.015","Susceptible","Tigecycline"
+"398146","TEST","Enterococcus Group D","Enterococcus spp","India",NA,"Male","0 to 2 Years","Pediatric ICU","CVS: Blood","Inpatient","2007",NA,"<=0.12","Susceptible","Vancomycin"

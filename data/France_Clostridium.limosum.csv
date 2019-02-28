@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1018004","TEST","Clostridium limosum","Gram Positive Anaerobes","France",NA,"Male","13 to 18 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2013",NA,"<=0.25","Susceptible","Clindamycin"
+"1018004","TEST","Clostridium limosum","Gram Positive Anaerobes","France",NA,"Male","13 to 18 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2013",NA,"<=0.06","Susceptible","Meropenem"
+"1018004","TEST","Clostridium limosum","Gram Positive Anaerobes","France",NA,"Male","13 to 18 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2013",NA,"<=0.12","Susceptible","Metronidazole"
+"1018004","TEST","Clostridium limosum","Gram Positive Anaerobes","France",NA,"Male","13 to 18 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2013",NA,"1","Intermediate","Penicillin"
+"1018004","TEST","Clostridium limosum","Gram Positive Anaerobes","France",NA,"Male","13 to 18 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2013",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1018004","TEST","Clostridium limosum","Gram Positive Anaerobes","France",NA,"Male","13 to 18 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2013",NA,"<=0.06","Susceptible","Tigecycline"

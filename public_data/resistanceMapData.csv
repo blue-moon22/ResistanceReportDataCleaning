@@ -1,0 +1,300 @@
+Country,Data_Source,Species,Group,Year
+Argentina,WHONET-Argentina Network and SIREVAII-Argentina Network,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2014
+Argentina,WHONET-Argentina Network and SIREVAII-Argentina Network,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Glycylcyclines; Polymixins,2015
+Argentina,WHONET-Argentina Network and SIREVAII-Argentina Network,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam; Polymixins,2014
+Argentina,WHONET-Argentina Network and SIREVAII-Argentina Network,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam; Polymixins,2015
+Argentina,WHONET-Argentina Network and SIREVAII-Argentina Network,Enterococcus faecalis; Enterococcus faecium,Aminoglycosides; Aminopenicillins; Vancomycin,2015
+Australia,Australian Group of Antimicrobial Resistance (AGAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2016; 2017
+Australia,Australian Group of Antimicrobial Resistance (AGAR),Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2013; 2014; 2015; 2016; 2017
+Australia,Australian Group of Antimicrobial Resistance (AGAR),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2013; 2014; 2015
+Australia,Australian Group of Antimicrobial Resistance (AGAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2013
+Australia,Australian Group of Antimicrobial Resistance (AGAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2014; 2015; 2016; 2017
+Austria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Austria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides; Vancomycin,2001
+Austria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides; Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Austria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides; Vancomycin,2002; 2003
+Austria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides; Aminopenicillins; Vancomycin,2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Austria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Belarus,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2014; 2015; 2016
+Belarus,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecalis; Enterococcus faecium,Aminopenicillins; Linezolid; Vancomycin,2012; 2014; 2015
+Belarus,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Cephalosporins (3rd gen); Fluoroquinolones,2012
+Belarus,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2014; 2015
+Belarus,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2016
+Belgium,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2016; 2017
+Belgium,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2001
+Belgium,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Belgium,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Belgium,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems,2015
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2016
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecalis,Aminoglycosides; Aminopenicillins; Linezolid; Vancomycin,2015
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Linezolid; Vancomycin,2016
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2016
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2015
+Bosnia and Herzegovina,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2016
+Bulgaria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Bulgaria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Bulgaria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2011; 2012; 2013; 2014; 2015; 2016; 2017
+Bulgaria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Vancomycin,2006
+Bulgaria,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Canada,Canadian Antimicrobial Resistance Alliance (CARA),Enterococcus faecalis,Vancomycin,2012; 2013; 2014
+Canada,Canadian Antimicrobial Resistance Alliance (CARA),Enterococcus faecium,Vancomycin,2013
+China,CHINET surveillance,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Glycylcyclines; Polymixins,2016; 2017
+China,CHINET surveillance,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam; Polymixins,2016; 2017
+China,CHINET surveillance,Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2016; 2017
+China,CHINET surveillance,Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam; Polymixins,2016
+China,CHINET surveillance,Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam; Polymixins,2017
+Croatia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Croatia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Croatia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2005; 2006; 2007; 2008; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Croatia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Vancomycin,2004
+Croatia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Cyprus,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2017
+Cyprus,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Cyprus,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Vancomycin,2013
+Cyprus,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2014; 2016; 2017
+Cyprus,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Czech Republic,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Czech Republic,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Czech Republic,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Denmark,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Denmark,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2006; 2007
+Denmark,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Denmark,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2006; 2007; 2008
+Denmark,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Denmark,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Ecuador,Reference Laboratory for antimicrobial resistance at the National Institute of Public Health Research (INSPI),Acinetobacter baumannii,Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones,2014
+Ecuador,Reference Laboratory for antimicrobial resistance at the National Institute of Public Health Research (INSPI),Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam; Polymixins,2014
+Ecuador,Reference Laboratory for antimicrobial resistance at the National Institute of Public Health Research (INSPI),Enterococcus faecalis; Enterococcus faecium,Aminopenicillins; Vancomycin,2014
+Estonia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2004; 2005; 2006; 2016; 2017
+Estonia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2007; 2008; 2009; 2010; 2012; 2013; 2014; 2015
+Estonia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2016; 2017
+Estonia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2006; 2007; 2008; 2009; 2012; 2013; 2014
+Estonia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2012; 2013; 2014; 2015; 2016; 2017
+Estonia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2011
+Finland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2017
+Finland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2001; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Finland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008
+Finland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2001; 2002; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Finland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2004; 2005; 2006; 2007; 2008
+Finland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+France,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+France,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+France,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+France,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Germany,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Germany,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Germany,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Germany,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2001; 2002
+Germany,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Ghana,Lancet Laboratories Pvt. Ltd,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2014; 2015
+Ghana,Lancet Laboratories Pvt. Ltd,Acinetobacter baumannii,Amikacin; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2016
+Ghana,Lancet Laboratories Pvt. Ltd,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Fluoroquinolones; Piperacillin-tazobactam,2014; 2015; 2016
+Greece,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Greece,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Greece,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Greece,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2000
+Greece,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Hungary,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Hungary,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2001; 2002
+Hungary,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Hungary,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Hungary,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2003
+Hungary,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Iceland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2006; 2017
+Iceland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010
+Iceland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Cephalosporins (3rd gen); Fluoroquinolones,2011; 2012; 2013; 2014; 2015; 2016; 2017
+India,SRL Diagnostics,Acinetobacter baumannii,Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2008
+India,SRL Diagnostics,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2009
+India,SRL Diagnostics,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2010; 2011
+India,SRL Diagnostics,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2012; 2013; 2014; 2016
+India,SRL Diagnostics,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones; Glycylcyclines; Polymixins,2015
+India,SRL Diagnostics,Acinetobacter baumannii,Amikacin; Carbapenems; Ceftazidime; Fluoroquinolones,2017
+India,SRL Diagnostics,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2010; 2011; 2014
+India,SRL Diagnostics,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam,2012
+India,SRL Diagnostics,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam; Polymixins,2013
+India,SRL Diagnostics,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam; Polymixins,2015
+India,SRL Diagnostics,Enterobacter aerogenes; Enterobacter cloacae,Cephalosporins (3rd gen); Fluoroquinolones,2016
+India,SRL Diagnostics,Enterococcus faecalis,Aminopenicillins; Fluoroquinolones; Linezolid; Vancomycin,2012; 2013; 2014
+India,SRL Diagnostics,Enterococcus faecalis,Aminopenicillins; Vancomycin,2015
+India,SRL Diagnostics,Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2017
+India,SRL Diagnostics,Enterococcus faecium,Aminopenicillins; Fluoroquinolones; Linezolid; Vancomycin,2011; 2012; 2013; 2014
+India,SRL Diagnostics,Enterococcus faecium,Aminopenicillins; Vancomycin,2010; 2015
+India,SRL Diagnostics,Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2017
+India,SRL Diagnostics,Enterococcus faecium,Aminopenicillins,2016
+Ireland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Ireland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Ireland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Italy,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Italy,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Italy,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Italy,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Cephalosporins (3rd gen); Fluoroquinolones,2002; 2003; 2004; 2005; 2006
+Japan,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Amikacin; Carbapenems,2017
+Japan,Global Antimicrobial Resistance Surveillance System (GLASS),Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporin (3rd gen); Fluoroquinolones,2017
+"Korea, South",Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines; Polymixins,2016
+"Korea, South",Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines,2017
+"Korea, South",Global Antimicrobial Resistance Surveillance System (GLASS),Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporin (3rd gen); Fluoroquinolones; Polymixins,2016
+"Korea, South",Global Antimicrobial Resistance Surveillance System (GLASS),Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporin (3rd gen); Fluoroquinolones,2017
+Kosovo,National Institute for Public Health of Kosovo,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2014
+Kosovo,National Institute for Public Health of Kosovo,Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2015
+Kosovo,National Institute for Public Health of Kosovo,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2016
+Kosovo,National Institute for Public Health of Kosovo,Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2014
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2014; 2015; 2016; 2017
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2006; 2010; 2011; 2012; 2013; 2017
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins,2014
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Vancomycin,2015; 2016
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2017
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins,2014
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Vancomycin,2015; 2016
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2007; 2008
+Latvia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Lithuania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2014; 2015; 2016; 2017
+Lithuania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Lithuania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2012; 2014; 2015; 2017
+Lithuania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2016
+Lithuania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Luxembourg,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Luxembourg,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Vancomycin,2006
+Luxembourg,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2016; 2017
+Luxembourg,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2014
+Luxembourg,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2007; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Luxembourg,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Escherichia coli,Aminoglycosides; Aminopenicillins; Cephalosporins (3rd gen); Fluoroquinolones,2006; 2008
+"Macedonia, FYR",Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2015; 2016
+Malawi,"Queen Elizabeth Central Hospital, Blantyre, Malawi",Acinetobacter baumannii,Aminoglycosides; Carbapenems,2016; 2017
+Malaysia,"National Surveillance of Antimicrobial Resistance, Malaysia",Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Glycylcyclines; Polymixins,2013; 2014; 2015
+Malaysia,"National Surveillance of Antimicrobial Resistance, Malaysia",Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines; Polymixins,2016; 2017
+Malaysia,"National Surveillance of Antimicrobial Resistance, Malaysia",Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2013; 2014; 2015
+Malaysia,"National Surveillance of Antimicrobial Resistance, Malaysia",Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2016; 2017
+Malta,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2011; 2013; 2016
+Malta,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2004; 2005; 2006; 2007; 2015
+Malta,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Vancomycin,2009
+Malta,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins,2014
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Acinetobacter baumannii,Amikacin; Carbapenems; Ceftazidime; Fluoroquinolones,2007; 2008; 2009; 2010; 2011; 2012; 2013
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Acinetobacter baumannii,Amikacin; Carbapenems; Ceftazidime; Fluoroquinolones; Glycylcyclines,2014
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2008
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Fluoroquinolones,2014
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Enterobacter aerogenes; Enterobacter cloacae,Carbapenems; Cephalosporins (3rd gen); Glycylcyclines,2015
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Enterococcus faecalis,Aminopenicillins; Vancomycin,2010; 2011; 2012; 2013; 2014; 2015
+Mexico,"Hospital Civil de Guadalajara ""Fray Antonio Alcalde""",Enterococcus faecium,Aminopenicillins; Vancomycin,2012; 2013; 2014
+Netherlands,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems,2012
+Netherlands,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Netherlands,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Vancomycin,2000
+Netherlands,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Netherlands,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Vancomycin,2001; 2002
+Netherlands,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+New Zealand,"Public Health Surveillance, New Zealand",Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+Nigeria,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Aminoglycosides,2017
+Norway,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Norway,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Vancomycin,2000; 2001
+Norway,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Norway,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Vancomycin,2003; 2004
+Norway,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Norway,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins,2002
+Oman,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines; Polymixins,2017
+Pakistan,Chugtai's Laboratory Private Ltd.,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines; Polymixins,2017
+Philippines,"Antimicrobial Resistance Surveillance Program, Department of Health, Philippines",Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2016
+Philippines,"Antimicrobial Resistance Surveillance Program, Department of Health, Philippines",Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Polymixins,2017
+Philippines,"Antimicrobial Resistance Surveillance Program, Department of Health, Philippines",Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2016
+Philippines,"Antimicrobial Resistance Surveillance Program, Department of Health, Philippines",Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporin (3rd gen); Fluoroquinolones; Polymixins,2017
+Poland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Poland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Poland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Portugal,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2018
+Portugal,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Portugal,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Romania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+Romania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2012; 2013; 2014; 2016; 2017
+Romania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2015
+Romania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2012; 2013; 2016; 2017
+Romania,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2014; 2015
+Russia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2014; 2015
+Russia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2016
+Russia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Polymixins,2017
+Saudi Arabia,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines; Polymixins,2017
+Serbia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015
+Serbia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2016
+Serbia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Linezolid; Vancomycin,2013; 2014; 2016
+Serbia,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2015
+Slovakia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Slovakia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2002; 2003; 2004; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Slovakia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2005
+Slovakia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2011; 2012; 2013; 2014; 2015; 2016; 2017
+Slovenia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2014; 2015; 2016; 2017
+Slovenia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Slovenia,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+South Africa,South Africa Society for Clinical Microbiology,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones; Glycylcyclines; Polymixins,2011; 2012; 2013; 2014
+South Africa,South Africa Society for Clinical Microbiology,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Glycylcyclines; Polymixins,2015; 2016
+South Africa,South Africa Society for Clinical Microbiology,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2011; 2012; 2013; 2014
+South Africa,South Africa Society for Clinical Microbiology,Enterococcus faecalis; Enterococcus faecium,Aminoglycosides; Aminopenicillins; Vancomycin,2011; 2012; 2013; 2014
+South Africa,South Africa Society for Clinical Microbiology,Enterococcus faecalis; Enterococcus faecium,Aminopenicillins; Vancomycin,2015; 2016
+Spain,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015; 2016; 2017
+Spain,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Sri Lanka,The Sri Lanka College of Microbiologists,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2009
+Sweden,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Carbapenems,2015
+Sweden,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2016; 2017
+Sweden,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminopenicillins; Vancomycin,2001; 2002
+Sweden,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2003; 2004; 2005; 2006; 2007; 2008; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017
+Switzerland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2013; 2014; 2015
+Switzerland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2016
+Switzerland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems,2017
+Switzerland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Linezolid; Vancomycin,2013; 2015; 2016
+Switzerland,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis; Enterococcus faecium,Aminopenicillins; Linezolid; Vancomycin,2014
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Polymixins,2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines,2007; 2008
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2007; 2008
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam,2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Enterococcus faecalis; Enterococcus faecium,Aminopenicillins; Vancomycin,2007
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2007; 2008; 2012; 2013
+Taiwan,Taiwan National Institutes of Infectious Diseases and Vaccinology,Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam; Polymixins,2009; 2010; 2011; 2014; 2015; 2016
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones,2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Acinetobacter baumannii,Amikacin,2016
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Polymixins,2017
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecalis,Vancomycin,2008
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecalis,Aminoglycosides; Vancomycin,2009; 2011; 2013; 2014
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecalis,Aminoglycosides; Aminopenicillins; Vancomycin,2010; 2012; 2015
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecium,Aminopenicillins; Vancomycin,2008
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecium,Aminoglycosides (high-level); Vancomycin,2009; 2011; 2012; 2013; 2014
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2015
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Enterococcus faecium,Vancomycin,2010
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Escherichia coli,Aminoglycosides; Aminopenicillins; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+Thailand,"National Antimicrobial Resistance Surveillance Center, Thailand (NARST)",Escherichia coli,Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,
+Tunisia,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Polymixins,2016
+Tunisia,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Carbapenems; Polymixins,2017
+Turkey,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2014; 2015
+Turkey,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Fluoroquinolones,2016
+Turkey,Central Asian and Eastern European Surveillance of Antimicrobial Resistance network (CEAESAR),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Linezolid; Vancomycin,2013; 2014; 2015; 2016
+United Arab Emirates,Global Antimicrobial Resistance Surveillance System (GLASS),Acinetobacter baumannii,Aminoglycosides; Carbapenems,2017
+United Kingdom,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones,2012; 2013; 2014; 2015; 2016; 2017
+United Kingdom,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013
+United Kingdom,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecalis,Aminopenicillins; Vancomycin,2014; 2015; 2016; 2017
+United Kingdom,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2009; 2010; 2011; 2012; 2013
+United Kingdom,European Antimicrobial Reisstance Surveillance Network (EARS-Net),Enterococcus faecium,Aminopenicillins; Vancomycin,2005; 2006; 2007; 2008; 2014; 2015; 2016; 2017
+United States,The Surveillance Network (TSN),Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones,1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012
+United States,The Surveillance Network (TSN),Acinetobacter baumannii,Aminoglycosides; Carbapenems; Fluoroquinolones; Piperacillin-tazobactam,2013; 2014; 2015; 2016
+United States,The Surveillance Network (TSN),Enterobacter aerogenes; Enterobacter cloacae,Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011
+United States,The Surveillance Network (TSN),Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2012
+United States,The Surveillance Network (TSN),Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2013; 2014; 2015; 2016
+United States,The Surveillance Network (TSN),Enterococcus faecalis; Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012
+United States,The Surveillance Network (TSN),Enterococcus faecalis; Enterococcus faecium,Vancomycin,2013; 2014; 2015; 2016
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2000
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones,2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2010; 2011; 2012
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterobacter aerogenes; Enterobacter cloacae,Aminoglycosides; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam; Polymixins,2010; 2011; 2012
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterococcus faecalis,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2001; 2004; 2005; 2008
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterococcus faecalis,Aminopenicillins; Vancomycin,2002; 2003; 2006; 2007; 2009; 2011; 2012; 2013
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterococcus faecalis,Vancomycin,2000
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterococcus faecium,Aminoglycosides (high-level); Aminopenicillins; Vancomycin,2010; 2011
+Venezuela,Programa Venezolano de Vigilancia de la Resistencia a los Antimicrobianos (PROVENRA).,Enterococcus faecium,Aminopenicillins; Vancomycin,2006; 2007; 2008; 2009; 2012
+Vietnam,Viet Nam Resistance (VINARES) Project,Acinetobacter baumannii,Amikacin; Aminoglycosides; Carbapenems; Ceftazidime; Fluoroquinolones,2013
+Vietnam,Viet Nam Resistance (VINARES) Project,Acinetobacter baumannii,Amikacin; Aminoglycosides; Ampicillin-sulbactam; Carbapenems; Ceftazidime; Fluoroquinolones; Polymixins,2016
+Vietnam,Viet Nam Resistance (VINARES) Project,Enterobacter aerogenes; Enterobacter cloacae,Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones,2016
+Vietnam,Viet Nam Resistance (VINARES) Project,Enterococcus faecalis,Aminopenicillins,2013
+Vietnam,Viet Nam Resistance (VINARES) Project,Enterococcus faecalis,Vancomycin,2016
+Vietnam,Viet Nam Resistance (VINARES) Project,Enterococcus faecium,Penicillins; Vancomycin,2016
+Vietnam,Viet Nam Resistance (VINARES) Project,Escherichia coli,Aminoglycosides; Aminopenicillins; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Piperacillin-tazobactam,2013
+Vietnam,Viet Nam Resistance (VINARES) Project,Escherichia coli,Aminoglycosides; Aminopenicillins; Ampicillin-sulbactam; Amoxicillin-clavulanate; Carbapenems; Cephalosporins (3rd gen); Fluoroquinolones; Glycylcyclines; Piperacillin-tazobactam,2016
+Zimbabwe,Lancet Laboratories Pvt. Ltd,Enterococcus faecalis,Aminopenicillins; Vancomycin,2015

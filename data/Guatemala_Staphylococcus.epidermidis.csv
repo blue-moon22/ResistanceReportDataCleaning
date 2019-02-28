@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"610538","TEST","Staphylococcus epidermidis","Staphylococcus spp","Guatemala",NA,"Female","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2009",NA,"0.12","Susceptible","Levofloxacin"
+"610538","TEST","Staphylococcus epidermidis","Staphylococcus spp","Guatemala",NA,"Female","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2009",NA,"<=0.5","Susceptible","Linezolid"
+"610538","TEST","Staphylococcus epidermidis","Staphylococcus spp","Guatemala",NA,"Female","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2009",NA,"<=0.25","Susceptible","Minocycline"
+"610538","TEST","Staphylococcus epidermidis","Staphylococcus spp","Guatemala",NA,"Female","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2009",NA,"<=0.06","Susceptible","Penicillin"
+"610538","TEST","Staphylococcus epidermidis","Staphylococcus spp","Guatemala",NA,"Female","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2009",NA,"0.12","Susceptible","Tigecycline"
+"610538","TEST","Staphylococcus epidermidis","Staphylococcus spp","Guatemala",NA,"Female","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2009",NA,"0.5","Susceptible","Vancomycin"

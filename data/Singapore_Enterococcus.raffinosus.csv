@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"1","Susceptible","Ampicillin"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"2","Susceptible","Levofloxacin"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"2","Susceptible","Linezolid"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"8","Intermediate","Minocycline"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"2","Susceptible","Penicillin"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"0.06","Susceptible","Tigecycline"
+"316671","TEST","Enterococcus raffinosus","Enterococcus spp","Singapore",NA,"Female","65 to 84 Years","Surgery ICU","Bodily Fluids: Peritoneal","Inpatient","2007",NA,"0.5","Susceptible","Vancomycin"

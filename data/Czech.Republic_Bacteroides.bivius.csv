@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"342657","TEST","Bacteroides bivius","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"4","Susceptible","Cefoxitin"
+"342657","TEST","Bacteroides bivius","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"<=0.25","Susceptible","Clindamycin"
+"342657","TEST","Bacteroides bivius","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"0.12","Susceptible","Meropenem"
+"342657","TEST","Bacteroides bivius","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"1","Susceptible","Metronidazole"
+"342657","TEST","Bacteroides bivius","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"0.12","Susceptible","Piperacillin tazobactam"
+"342657","TEST","Bacteroides bivius","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2007",NA,"1","Susceptible","Tigecycline"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,"0.5","Susceptible","Ampicillin"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,"1","Susceptible","Levofloxacin"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,"2","Susceptible","Linezolid"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,">8","Resistant","Minocycline"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,"0.5","Susceptible","Penicillin"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,"0.25","Susceptible","Tigecycline"
+"506945","TEST","Enterococcus gallinarum","Enterococcus spp","Poland",NA,"Male","19 to 64 Years","Medicine General","Bodily Fluids","Inpatient","2008",NA,"8","Intermediate","Vancomycin"

@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1349044","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Germany",NA,"Male","19 to 64 Years","Surgery General","Instruments: Other","Inpatient","2015",NA,">8","Resistant","Clindamycin"
+"1349044","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Germany",NA,"Male","19 to 64 Years","Surgery General","Instruments: Other","Inpatient","2015",NA,"4","Susceptible","Meropenem"
+"1349044","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Germany",NA,"Male","19 to 64 Years","Surgery General","Instruments: Other","Inpatient","2015",NA,"2","Susceptible","Metronidazole"
+"1349044","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Germany",NA,"Male","19 to 64 Years","Surgery General","Instruments: Other","Inpatient","2015",NA,"4","Resistant","Penicillin"
+"1349044","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Germany",NA,"Male","19 to 64 Years","Surgery General","Instruments: Other","Inpatient","2015",NA,"16","Susceptible","Piperacillin tazobactam"
+"1349044","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Germany",NA,"Male","19 to 64 Years","Surgery General","Instruments: Other","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

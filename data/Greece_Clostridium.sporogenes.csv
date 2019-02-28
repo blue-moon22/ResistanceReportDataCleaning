@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"395307","TEST","Clostridium sporogenes","Gram Positive Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"0.5","Susceptible","Clindamycin"
+"395307","TEST","Clostridium sporogenes","Gram Positive Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"0.12","Susceptible","Meropenem"
+"395307","TEST","Clostridium sporogenes","Gram Positive Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"0.5","Susceptible","Metronidazole"
+"395307","TEST","Clostridium sporogenes","Gram Positive Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"16","Resistant","Penicillin"
+"395307","TEST","Clostridium sporogenes","Gram Positive Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"395307","TEST","Clostridium sporogenes","Gram Positive Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"1","Susceptible","Tigecycline"

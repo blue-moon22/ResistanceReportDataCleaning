@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"0.5","Susceptible","Ampicillin"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"0.5","Susceptible","Levofloxacin"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"2","Susceptible","Linezolid"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"<=0.25","Susceptible","Minocycline"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"2","Susceptible","Penicillin"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1488189","TEST","Enterococcus durans","Enterococcus spp","Chile",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Peritoneal","Inpatient","2016",NA,"0.25","Susceptible","Vancomycin"

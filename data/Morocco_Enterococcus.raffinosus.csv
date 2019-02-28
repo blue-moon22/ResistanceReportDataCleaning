@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,"8","Susceptible","Ampicillin"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,"1","Susceptible","Levofloxacin"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,"2","Susceptible","Linezolid"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,"8","Intermediate","Minocycline"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,">8","Resistant","Penicillin"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,"0.06","Susceptible","Tigecycline"
+"945448","TEST","Enterococcus raffinosus","Enterococcus spp","Morocco",NA,"Male","19 to 64 Years","Surgery General","INT: Skin","None Given","2013",NA,"0.5","Susceptible","Vancomycin"

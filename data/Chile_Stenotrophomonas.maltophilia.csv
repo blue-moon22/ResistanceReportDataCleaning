@@ -1,0 +1,3 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1616607","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Chile",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2017",NA,"8","Susceptible","Ceftazidime"
+"1616607","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Chile",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Peritoneal","Inpatient","2017",NA,"2","Susceptible","Levofloxacin"

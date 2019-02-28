@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"395302","TEST","Clostridium perfringens","Gram Positive Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"<=0.25","Susceptible","Clindamycin"
+"395302","TEST","Clostridium perfringens","Gram Positive Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"<=0.06","Susceptible","Meropenem"
+"395302","TEST","Clostridium perfringens","Gram Positive Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"<=0.12","Susceptible","Metronidazole"
+"395302","TEST","Clostridium perfringens","Gram Positive Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"<=0.25","Susceptible","Penicillin"
+"395302","TEST","Clostridium perfringens","Gram Positive Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"395302","TEST","Clostridium perfringens","Gram Positive Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2006",NA,"<=0.06","Susceptible","Tigecycline"

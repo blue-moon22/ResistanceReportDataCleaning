@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.5","Susceptible","Ampicillin"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"1","Susceptible","Levofloxacin"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"1","Susceptible","Linezolid"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"<=0.25","Susceptible","Minocycline"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"2","Susceptible","Penicillin"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.03","Susceptible","Tigecycline"
+"1530952","TEST","Enterococcus avium","Enterococcus spp","Netherlands",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2016",NA,"0.5","Susceptible","Vancomycin"

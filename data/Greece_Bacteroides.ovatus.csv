@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"395306","TEST","Bacteroides ovatus","Gram Negative Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2007",NA,"4","Susceptible","Cefoxitin"
+"395306","TEST","Bacteroides ovatus","Gram Negative Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2007",NA,"0.5","Susceptible","Clindamycin"
+"395306","TEST","Bacteroides ovatus","Gram Negative Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2007",NA,"0.12","Susceptible","Meropenem"
+"395306","TEST","Bacteroides ovatus","Gram Negative Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2007",NA,"0.5","Susceptible","Metronidazole"
+"395306","TEST","Bacteroides ovatus","Gram Negative Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2007",NA,"0.12","Susceptible","Piperacillin tazobactam"
+"395306","TEST","Bacteroides ovatus","Gram Negative Anaerobes","Greece",NA,"Male","19 to 64 Years","Surgery General","GI: Rectum","Inpatient","2007",NA,"1","Susceptible","Tigecycline"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"0.5","Susceptible","Ampicillin"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"0.25","Susceptible","Levofloxacin"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"2","Susceptible","Linezolid"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"<=0.25","Susceptible","Minocycline"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"1","Susceptible","Penicillin"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"0.015","Susceptible","Tigecycline"
+"238493","TEST","Enterococcus durans","Enterococcus spp","Pakistan",NA,"Male","19 to 64 Years","None Given","CVS: Blood","None Given","2006",NA,"0.5","Susceptible","Vancomycin"

@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1220562","TEST","Clostridium bolteae","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,">8","Resistant","Clindamycin"
+"1220562","TEST","Clostridium bolteae","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"<=0.06","Susceptible","Meropenem"
+"1220562","TEST","Clostridium bolteae","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"<=0.12","Susceptible","Metronidazole"
+"1220562","TEST","Clostridium bolteae","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"<=0.25","Susceptible","Penicillin"
+"1220562","TEST","Clostridium bolteae","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"1220562","TEST","Clostridium bolteae","Gram Positive Anaerobes","France",NA,"Male","19 to 64 Years","Medicine General","INT: Wound","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"1","Susceptible","Ampicillin"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"1","Susceptible","Levofloxacin"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"<=0.5","Susceptible","Linezolid"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"8","Intermediate","Minocycline"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"2","Susceptible","Penicillin"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1545594","TEST","Enterococcus gallinarum","Enterococcus spp","Denmark",NA,"Male","Unknown","Surgery ICU","Bodily Fluids","Inpatient","2016",NA,"8","Intermediate","Vancomycin"

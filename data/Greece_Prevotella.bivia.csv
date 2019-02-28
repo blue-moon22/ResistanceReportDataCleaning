@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"395301","TEST","Prevotella bivia","Gram Negative Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GU: Other","Inpatient","2007",NA,"4","Susceptible","Cefoxitin"
+"395301","TEST","Prevotella bivia","Gram Negative Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GU: Other","Inpatient","2007",NA,"0.5","Susceptible","Clindamycin"
+"395301","TEST","Prevotella bivia","Gram Negative Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GU: Other","Inpatient","2007",NA,"0.12","Susceptible","Meropenem"
+"395301","TEST","Prevotella bivia","Gram Negative Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GU: Other","Inpatient","2007",NA,"0.5","Susceptible","Metronidazole"
+"395301","TEST","Prevotella bivia","Gram Negative Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GU: Other","Inpatient","2007",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"395301","TEST","Prevotella bivia","Gram Negative Anaerobes","Greece",NA,"Female","19 to 64 Years","Surgery General","GU: Other","Inpatient","2007",NA,"8","Intermediate","Tigecycline"

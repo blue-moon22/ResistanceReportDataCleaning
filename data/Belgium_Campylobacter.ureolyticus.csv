@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"970754","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Belgium",NA,"Female","19 to 64 Years","Clinic / Office","Bodily Fluids: Abdominal","Outpatient","2013",NA,"8","Susceptible","Cefoxitin"
+"970754","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Belgium",NA,"Female","19 to 64 Years","Clinic / Office","Bodily Fluids: Abdominal","Outpatient","2013",NA,">8","Resistant","Clindamycin"
+"970754","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Belgium",NA,"Female","19 to 64 Years","Clinic / Office","Bodily Fluids: Abdominal","Outpatient","2013",NA,"1","Susceptible","Meropenem"
+"970754","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Belgium",NA,"Female","19 to 64 Years","Clinic / Office","Bodily Fluids: Abdominal","Outpatient","2013",NA,"0.5","Susceptible","Metronidazole"
+"970754","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Belgium",NA,"Female","19 to 64 Years","Clinic / Office","Bodily Fluids: Abdominal","Outpatient","2013",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"970754","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Belgium",NA,"Female","19 to 64 Years","Clinic / Office","Bodily Fluids: Abdominal","Outpatient","2013",NA,"0.12","Susceptible","Tigecycline"

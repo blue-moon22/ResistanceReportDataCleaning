@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"505038","TEST","Anaerococcus vaginalis","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.25","Susceptible","Clindamycin"
+"505038","TEST","Anaerococcus vaginalis","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"0.12","Susceptible","Meropenem"
+"505038","TEST","Anaerococcus vaginalis","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.12","Susceptible","Metronidazole"
+"505038","TEST","Anaerococcus vaginalis","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.25","Susceptible","Penicillin"
+"505038","TEST","Anaerococcus vaginalis","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"0.25","Susceptible","Piperacillin tazobactam"
+"505038","TEST","Anaerococcus vaginalis","Gram Positive Anaerobes","United Kingdom",NA,NA,"Unknown","None Given","None Given","None Given","2008",NA,"<=0.06","Susceptible","Tigecycline"

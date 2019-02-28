@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1272051","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","19 to 64 Years","Surgery ICU","Respiratory: Sputum","Inpatient","2015",NA,"4","Susceptible","Ceftazidime"
+"1611114","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","65 to 84 Years","Medicine General","INT: Cellulitis/Erysipelas","Inpatient","2017",NA,"2","Susceptible","Ceftazidime"
+"766012","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","19 to 64 Years","Surgery ICU","GI: Pancreas","Inpatient","2011",NA,"2","Susceptible","Ceftazidime"
+"1272051","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","19 to 64 Years","Surgery ICU","Respiratory: Sputum","Inpatient","2015",NA,"4","Intermediate","Levofloxacin"
+"1611114","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","65 to 84 Years","Medicine General","INT: Cellulitis/Erysipelas","Inpatient","2017",NA,">8","Resistant","Levofloxacin"
+"766012","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","19 to 64 Years","Surgery ICU","GI: Pancreas","Inpatient","2011",NA,"4","Intermediate","Levofloxacin"
+"766012","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Czech Republic",NA,"Male","19 to 64 Years","Surgery ICU","GI: Pancreas","Inpatient","2011",NA,"1","Susceptible","Minocycline"

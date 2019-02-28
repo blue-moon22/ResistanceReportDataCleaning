@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"1","Susceptible","Ampicillin"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"2","Susceptible","Levofloxacin"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"2","Susceptible","Linezolid"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"<=0.25","Susceptible","Minocycline"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"2","Susceptible","Penicillin"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"0.06","Susceptible","Tigecycline"
+"1600372","TEST","Enterococcus mundtii","Enterococcus spp","United States","Colorado","Female","19 to 64 Years","Medicine General","CVS: Blood","Inpatient","2017",NA,"0.5","Susceptible","Vancomycin"

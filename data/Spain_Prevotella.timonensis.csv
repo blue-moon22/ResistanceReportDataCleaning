@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1595800","TEST","Prevotella timonensis","Gram Negative Anaerobes","Spain",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2016",NA,"<=2","Susceptible","Cefoxitin"
+"1595800","TEST","Prevotella timonensis","Gram Negative Anaerobes","Spain",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2016",NA,">8","Resistant","Clindamycin"
+"1595800","TEST","Prevotella timonensis","Gram Negative Anaerobes","Spain",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2016",NA,"<=0.06","Susceptible","Meropenem"
+"1595800","TEST","Prevotella timonensis","Gram Negative Anaerobes","Spain",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2016",NA,"1","Susceptible","Metronidazole"
+"1595800","TEST","Prevotella timonensis","Gram Negative Anaerobes","Spain",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2016",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1595800","TEST","Prevotella timonensis","Gram Negative Anaerobes","Spain",NA,"Male","65 to 84 Years","None Given","INT: Wound","None Given","2016",NA,"0.12","Susceptible","Tigecycline"

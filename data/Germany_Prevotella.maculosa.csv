@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"970357","TEST","Prevotella maculosa","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2013",NA,"<=2","Susceptible","Cefoxitin"
+"970357","TEST","Prevotella maculosa","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2013",NA,"<=0.25","Susceptible","Clindamycin"
+"970357","TEST","Prevotella maculosa","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2013",NA,"<=0.06","Susceptible","Meropenem"
+"970357","TEST","Prevotella maculosa","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2013",NA,"0.25","Susceptible","Metronidazole"
+"970357","TEST","Prevotella maculosa","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2013",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"970357","TEST","Prevotella maculosa","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2013",NA,"<=0.06","Susceptible","Tigecycline"

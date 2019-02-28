@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"669223","TEST","Veillonella parvula","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2010",NA,"<=2","Susceptible","Cefoxitin"
+"669223","TEST","Veillonella parvula","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2010",NA,"<=0.25","Susceptible","Clindamycin"
+"669223","TEST","Veillonella parvula","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2010",NA,"<=0.06","Susceptible","Meropenem"
+"669223","TEST","Veillonella parvula","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2010",NA,"0.25","Susceptible","Metronidazole"
+"669223","TEST","Veillonella parvula","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2010",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"669223","TEST","Veillonella parvula","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2010",NA,"<=0.06","Susceptible","Tigecycline"

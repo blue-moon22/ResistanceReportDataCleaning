@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"0.5","Susceptible","Ampicillin"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"1","Susceptible","Levofloxacin"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"2","Susceptible","Linezolid"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"8","Intermediate","Minocycline"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"1","Susceptible","Penicillin"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"0.25","Susceptible","Tigecycline"
+"610990","TEST","Enterococcus durans","Enterococcus spp","El Salvador",NA,"Male","19 to 64 Years","None Given","GU: Urine","None Given","2009",NA,"0.5","Susceptible","Vancomycin"

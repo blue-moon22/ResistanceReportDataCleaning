@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"388757","TEST","Clostridium putrificum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"8","Resistant","Clindamycin"
+"388757","TEST","Clostridium putrificum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"0.25","Susceptible","Meropenem"
+"388757","TEST","Clostridium putrificum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.12","Susceptible","Metronidazole"
+"388757","TEST","Clostridium putrificum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.25","Susceptible","Penicillin"
+"388757","TEST","Clostridium putrificum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"0.5","Susceptible","Piperacillin tazobactam"
+"388757","TEST","Clostridium putrificum","Gram Positive Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"0.25","Susceptible","Tigecycline"

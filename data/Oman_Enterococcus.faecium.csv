@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,">16","Resistant","Ampicillin"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,"32","Resistant","Levofloxacin"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,"1","Susceptible","Linezolid"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,"2","Susceptible","Minocycline"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,">8","Resistant","Penicillin"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,"0.03","Susceptible","Tigecycline"
+"338612","TEST","Enterococcus faecium","Enterococcus spp","Oman",NA,"Female","65 to 84 Years","None Given","Instruments: Catheters","None Given","2007",NA,">32","Resistant","Vancomycin"

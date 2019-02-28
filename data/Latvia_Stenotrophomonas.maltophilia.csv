@@ -1,0 +1,4 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"457897","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Latvia",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"32","Resistant","Ceftazidime"
+"457897","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Latvia",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"0.5","Susceptible","Levofloxacin"
+"457897","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Latvia",NA,"Male","65 to 84 Years","Surgery ICU","CVS: Blood","Inpatient","2008",NA,"8","Intermediate","Minocycline"

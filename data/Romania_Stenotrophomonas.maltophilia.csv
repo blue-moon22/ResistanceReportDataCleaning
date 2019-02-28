@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1110222","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Romania",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2014",NA,">16","Resistant","Ceftazidime"
+"1110225","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Romania",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2014",NA,">16","Resistant","Ceftazidime"
+"1110222","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Romania",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2014",NA,"0.5","Susceptible","Levofloxacin"
+"1110225","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Romania",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2014",NA,"1","Susceptible","Levofloxacin"
+"1110222","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Romania",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2014",NA,"<=0.5","Susceptible","Minocycline"
+"1110225","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Romania",NA,"Male","19 to 64 Years","Medicine General","INT: Decubitus","Inpatient","2014",NA,"<=0.5","Susceptible","Minocycline"

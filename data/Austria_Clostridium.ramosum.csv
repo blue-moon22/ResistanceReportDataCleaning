@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"607519","TEST","Clostridium ramosum","Gram Positive Anaerobes","Austria",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2009",NA,"4","Intermediate","Clindamycin"
+"607519","TEST","Clostridium ramosum","Gram Positive Anaerobes","Austria",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2009",NA,"0.5","Susceptible","Meropenem"
+"607519","TEST","Clostridium ramosum","Gram Positive Anaerobes","Austria",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2009",NA,"0.5","Susceptible","Metronidazole"
+"607519","TEST","Clostridium ramosum","Gram Positive Anaerobes","Austria",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2009",NA,"<=0.25","Susceptible","Penicillin"
+"607519","TEST","Clostridium ramosum","Gram Positive Anaerobes","Austria",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2009",NA,"0.12","Susceptible","Piperacillin tazobactam"
+"607519","TEST","Clostridium ramosum","Gram Positive Anaerobes","Austria",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2009",NA,"0.12","Susceptible","Tigecycline"

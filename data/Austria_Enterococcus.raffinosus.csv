@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,">16","Resistant","Ampicillin"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,"0.5","Susceptible","Levofloxacin"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,"2","Susceptible","Linezolid"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,"8","Intermediate","Minocycline"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,">8","Resistant","Penicillin"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,"0.06","Susceptible","Tigecycline"
+"151283","TEST","Enterococcus raffinosus","Enterococcus spp","Austria",NA,"Male","19 to 64 Years","Surgery ICU","GU: Urine","Inpatient","2004",NA,"1","Susceptible","Vancomycin"

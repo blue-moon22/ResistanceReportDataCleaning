@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"0.5","Susceptible","Ampicillin"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"1","Susceptible","Levofloxacin"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"2","Susceptible","Linezolid"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"<=0.25","Susceptible","Minocycline"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"2","Susceptible","Penicillin"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"0.03","Susceptible","Tigecycline"
+"936552","TEST","Enterococcus mundtii","Enterococcus spp","Israel",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2010",NA,"0.25","Susceptible","Vancomycin"

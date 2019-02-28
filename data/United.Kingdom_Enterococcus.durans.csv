@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"1","Susceptible","Ampicillin"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"2","Susceptible","Levofloxacin"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"2","Susceptible","Linezolid"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"<=0.25","Susceptible","Minocycline"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"2","Susceptible","Penicillin"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"0.03","Susceptible","Tigecycline"
+"787765","TEST","Enterococcus durans","Enterococcus spp","United Kingdom",NA,"Female","65 to 84 Years","Surgery General","CVS: Blood","Inpatient","2011",NA,"0.5","Susceptible","Vancomycin"

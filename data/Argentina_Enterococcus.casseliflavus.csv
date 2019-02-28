@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"1","Susceptible","Ampicillin"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"16","Resistant","Levofloxacin"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"2","Susceptible","Linezolid"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"4","Susceptible","Minocycline"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"1","Susceptible","Penicillin"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"0.12","Susceptible","Tigecycline"
+"1625679","TEST","Enterococcus casseliflavus","Enterococcus spp","Argentina",NA,"Male","85 and Over","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"0.5","Susceptible","Vancomycin"

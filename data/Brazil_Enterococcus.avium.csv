@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"0.12","Susceptible","Ampicillin"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"1","Susceptible","Levofloxacin"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"2","Susceptible","Linezolid"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"<=0.25","Susceptible","Minocycline"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"0.12","Susceptible","Penicillin"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"0.015","Susceptible","Tigecycline"
+"485773","TEST","Enterococcus avium","Enterococcus spp","Brazil",NA,"Female","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2008",NA,"0.25","Susceptible","Vancomycin"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,"8","Susceptible","Ampicillin"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,"16","Resistant","Levofloxacin"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,"1","Susceptible","Linezolid"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,"8","Intermediate","Minocycline"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,">8","Resistant","Penicillin"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,"0.03","Susceptible","Tigecycline"
+"398152","TEST","Enterococcus flavescens","Enterococcus spp","India",NA,"Male","65 to 84 Years","Surgery General","Instruments: Catheters","Inpatient","2007",NA,"<=0.12","Susceptible","Vancomycin"

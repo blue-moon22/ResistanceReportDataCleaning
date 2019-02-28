@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"8","Susceptible","Ampicillin"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"32","Resistant","Levofloxacin"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"1","Susceptible","Linezolid"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"1","Susceptible","Minocycline"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"8","Susceptible","Penicillin"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"0.03","Susceptible","Tigecycline"
+"403714","TEST","Enterococcus durans","Enterococcus spp","Turkey",NA,"Male","85 and Over","Surgery General","GU: Urine","Inpatient","2008",NA,"0.5","Susceptible","Vancomycin"

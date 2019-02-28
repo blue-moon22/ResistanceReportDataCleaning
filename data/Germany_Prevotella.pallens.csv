@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1196199","TEST","Prevotella pallens","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2015",NA,"<=2","Susceptible","Cefoxitin"
+"1196199","TEST","Prevotella pallens","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2015",NA,"<=0.25","Susceptible","Clindamycin"
+"1196199","TEST","Prevotella pallens","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2015",NA,"<=0.06","Susceptible","Meropenem"
+"1196199","TEST","Prevotella pallens","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2015",NA,"1","Susceptible","Metronidazole"
+"1196199","TEST","Prevotella pallens","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2015",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1196199","TEST","Prevotella pallens","Gram Negative Anaerobes","Germany",NA,"Male","65 to 84 Years","None Given","Bodily Fluids: Abscess / Pus","None Given","2015",NA,"<=0.06","Susceptible","Tigecycline"

@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"970436","TEST","Parabacteroides johnsonii","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine ICU","INT: Wound","Inpatient","2013",NA,"<=2","Susceptible","Cefoxitin"
+"970436","TEST","Parabacteroides johnsonii","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine ICU","INT: Wound","Inpatient","2013",NA,"<=0.25","Susceptible","Clindamycin"
+"970436","TEST","Parabacteroides johnsonii","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine ICU","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Meropenem"
+"970436","TEST","Parabacteroides johnsonii","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine ICU","INT: Wound","Inpatient","2013",NA,"1","Susceptible","Metronidazole"
+"970436","TEST","Parabacteroides johnsonii","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine ICU","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"970436","TEST","Parabacteroides johnsonii","Gram Negative Anaerobes","Czech Republic",NA,"Female","19 to 64 Years","Medicine ICU","INT: Wound","Inpatient","2013",NA,"<=0.06","Susceptible","Tigecycline"

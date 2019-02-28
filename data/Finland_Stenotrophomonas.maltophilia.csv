@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"225456","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Finland",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2006",NA,"<=8","Susceptible","Ceftazidime"
+"711827","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Finland",NA,"Male","65 to 84 Years","None Given","HEENT: Other","None Given","2010",NA,"2","Susceptible","Ceftazidime"
+"225456","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Finland",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2006",NA,"0.25","Susceptible","Levofloxacin"
+"711827","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Finland",NA,"Male","65 to 84 Years","None Given","HEENT: Other","None Given","2010",NA,"0.5","Susceptible","Levofloxacin"
+"225456","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Finland",NA,"Female","85 and Over","None Given","INT: Wound","None Given","2006",NA,"<=0.5","Susceptible","Minocycline"
+"711827","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Finland",NA,"Male","65 to 84 Years","None Given","HEENT: Other","None Given","2010",NA,"<=0.5","Susceptible","Minocycline"

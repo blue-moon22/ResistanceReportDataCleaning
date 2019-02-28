@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"1","Susceptible","Ampicillin"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"1","Susceptible","Levofloxacin"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"2","Susceptible","Linezolid"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"8","Intermediate","Minocycline"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"8","Susceptible","Penicillin"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"0.06","Susceptible","Tigecycline"
+"1242852","TEST","Enterococcus raffinosus","Enterococcus spp","Venezuela",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2015",NA,"1","Susceptible","Vancomycin"

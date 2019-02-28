@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1595433","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2017",NA,"4","Susceptible","Cefoxitin"
+"1595433","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2017",NA,"<=0.25","Susceptible","Clindamycin"
+"1595433","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2017",NA,"<=0.06","Susceptible","Meropenem"
+"1595433","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2017",NA,"0.25","Susceptible","Metronidazole"
+"1595433","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2017",NA,"0.12","Susceptible","Piperacillin tazobactam"
+"1595433","TEST","Campylobacter ureolyticus","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2017",NA,"0.12","Susceptible","Tigecycline"

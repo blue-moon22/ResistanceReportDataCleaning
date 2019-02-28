@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"0.5","Susceptible","Ampicillin"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"1","Susceptible","Levofloxacin"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"2","Susceptible","Linezolid"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"4","Susceptible","Minocycline"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"1","Susceptible","Penicillin"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"0.03","Susceptible","Tigecycline"
+"1331855","TEST","Enterococcus avium","Enterococcus spp","United Kingdom",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Tissue","Inpatient","2015",NA,"0.5","Susceptible","Vancomycin"

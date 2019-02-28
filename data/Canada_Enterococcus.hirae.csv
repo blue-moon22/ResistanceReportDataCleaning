@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"2","Susceptible","Ampicillin"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"0.5","Susceptible","Levofloxacin"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"2","Susceptible","Linezolid"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"4","Susceptible","Minocycline"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"8","Susceptible","Penicillin"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"0.06","Susceptible","Tigecycline"
+"1518465","TEST","Enterococcus hirae","Enterococcus spp","Canada",NA,"Female","13 to 18 Years","Pediatric General","Bodily Fluids: Abdominal","Inpatient","2016",NA,"0.5","Susceptible","Vancomycin"

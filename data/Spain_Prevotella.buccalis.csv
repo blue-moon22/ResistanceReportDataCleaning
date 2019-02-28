@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1163164","TEST","Prevotella buccalis","Gram Negative Anaerobes","Spain",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2014",NA,"<=2","Susceptible","Cefoxitin"
+"1163164","TEST","Prevotella buccalis","Gram Negative Anaerobes","Spain",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2014",NA,"<=0.25","Susceptible","Clindamycin"
+"1163164","TEST","Prevotella buccalis","Gram Negative Anaerobes","Spain",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2014",NA,"<=0.06","Susceptible","Meropenem"
+"1163164","TEST","Prevotella buccalis","Gram Negative Anaerobes","Spain",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2014",NA,"0.25","Susceptible","Metronidazole"
+"1163164","TEST","Prevotella buccalis","Gram Negative Anaerobes","Spain",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2014",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1163164","TEST","Prevotella buccalis","Gram Negative Anaerobes","Spain",NA,"Male","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2014",NA,"<=0.06","Susceptible","Tigecycline"

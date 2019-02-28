@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"388718","TEST","Fusobacterium nucleatum","Gram Negative Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=2","Susceptible","Cefoxitin"
+"388718","TEST","Fusobacterium nucleatum","Gram Negative Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,">8","Resistant","Clindamycin"
+"388718","TEST","Fusobacterium nucleatum","Gram Negative Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"2","Susceptible","Meropenem"
+"388718","TEST","Fusobacterium nucleatum","Gram Negative Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"0.5","Susceptible","Metronidazole"
+"388718","TEST","Fusobacterium nucleatum","Gram Negative Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"4","Susceptible","Piperacillin tazobactam"
+"388718","TEST","Fusobacterium nucleatum","Gram Negative Anaerobes","Germany",NA,NA,"Unknown","None Given","None Given","None Given","2007",NA,"<=0.06","Susceptible","Tigecycline"

@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"4","Susceptible","Ampicillin"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"32","Resistant","Levofloxacin"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"1","Susceptible","Linezolid"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"8","Intermediate","Minocycline"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"4","Susceptible","Penicillin"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"0.12","Susceptible","Tigecycline"
+"220765","TEST","Enterococcus avium","Enterococcus spp","Jamaica",NA,"Male","13 to 18 Years","Surgery General","INT: Wound","Inpatient","2006",NA,"1","Susceptible","Vancomycin"

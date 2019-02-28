@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1140455","TEST","Prevotella disiens","Gram Negative Anaerobes","Sweden",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"<=2","Susceptible","Cefoxitin"
+"1140455","TEST","Prevotella disiens","Gram Negative Anaerobes","Sweden",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"<=0.25","Susceptible","Clindamycin"
+"1140455","TEST","Prevotella disiens","Gram Negative Anaerobes","Sweden",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"<=0.06","Susceptible","Meropenem"
+"1140455","TEST","Prevotella disiens","Gram Negative Anaerobes","Sweden",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"0.5","Susceptible","Metronidazole"
+"1140455","TEST","Prevotella disiens","Gram Negative Anaerobes","Sweden",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1140455","TEST","Prevotella disiens","Gram Negative Anaerobes","Sweden",NA,"Female","19 to 64 Years","Medicine General","Bodily Fluids: Other","Inpatient","2014",NA,"0.5","Susceptible","Tigecycline"

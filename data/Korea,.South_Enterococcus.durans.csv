@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,"1","Susceptible","Ampicillin"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,"8","Resistant","Levofloxacin"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,"2","Susceptible","Linezolid"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,">8","Resistant","Minocycline"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,"1","Susceptible","Penicillin"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,"0.5","Intermediate","Tigecycline"
+"317098","TEST","Enterococcus durans","Enterococcus spp","Korea, South",NA,"Female","19 to 64 Years","Emergency Room","Bodily Fluids: Abscess / Pus","Outpatient","2007",NA,"4","Susceptible","Vancomycin"

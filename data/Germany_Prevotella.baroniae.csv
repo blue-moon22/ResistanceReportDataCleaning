@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1596999","TEST","Prevotella baroniae","Gram Negative Anaerobes","Germany",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids: Pleural","Inpatient","2017",NA,"<=2","Susceptible","Cefoxitin"
+"1596999","TEST","Prevotella baroniae","Gram Negative Anaerobes","Germany",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids: Pleural","Inpatient","2017",NA,"8","Resistant","Clindamycin"
+"1596999","TEST","Prevotella baroniae","Gram Negative Anaerobes","Germany",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids: Pleural","Inpatient","2017",NA,"<=0.06","Susceptible","Meropenem"
+"1596999","TEST","Prevotella baroniae","Gram Negative Anaerobes","Germany",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids: Pleural","Inpatient","2017",NA,"1","Susceptible","Metronidazole"
+"1596999","TEST","Prevotella baroniae","Gram Negative Anaerobes","Germany",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids: Pleural","Inpatient","2017",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1596999","TEST","Prevotella baroniae","Gram Negative Anaerobes","Germany",NA,"Male","19 to 64 Years","Medicine ICU","Bodily Fluids: Pleural","Inpatient","2017",NA,"<=0.06","Susceptible","Tigecycline"

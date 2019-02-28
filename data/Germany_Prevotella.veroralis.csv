@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1540932","TEST","Prevotella veroralis","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","None Given","HEENT: Mouth","None Given","2016",NA,"4","Susceptible","Cefoxitin"
+"1540932","TEST","Prevotella veroralis","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","None Given","HEENT: Mouth","None Given","2016",NA,"<=0.25","Susceptible","Clindamycin"
+"1540932","TEST","Prevotella veroralis","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","None Given","HEENT: Mouth","None Given","2016",NA,"<=0.06","Susceptible","Meropenem"
+"1540932","TEST","Prevotella veroralis","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","None Given","HEENT: Mouth","None Given","2016",NA,"0.25","Susceptible","Metronidazole"
+"1540932","TEST","Prevotella veroralis","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","None Given","HEENT: Mouth","None Given","2016",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1540932","TEST","Prevotella veroralis","Gram Negative Anaerobes","Germany",NA,"Female","65 to 84 Years","None Given","HEENT: Mouth","None Given","2016",NA,"0.12","Susceptible","Tigecycline"

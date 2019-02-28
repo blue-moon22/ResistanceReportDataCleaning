@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1595086","TEST","Peptoniphilus lacrimalis","Gram Positive Anaerobes","Belgium",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.25","Susceptible","Clindamycin"
+"1595086","TEST","Peptoniphilus lacrimalis","Gram Positive Anaerobes","Belgium",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Meropenem"
+"1595086","TEST","Peptoniphilus lacrimalis","Gram Positive Anaerobes","Belgium",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"0.5","Susceptible","Metronidazole"
+"1595086","TEST","Peptoniphilus lacrimalis","Gram Positive Anaerobes","Belgium",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.25","Susceptible","Penicillin"
+"1595086","TEST","Peptoniphilus lacrimalis","Gram Positive Anaerobes","Belgium",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1595086","TEST","Peptoniphilus lacrimalis","Gram Positive Anaerobes","Belgium",NA,"Male","65 to 84 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Tigecycline"

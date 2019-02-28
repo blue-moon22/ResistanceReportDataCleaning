@@ -1,0 +1,3 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1043209","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Nigeria",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2013",NA,"128","Resistant","Ceftazidime"
+"1043209","Inform","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Nigeria",NA,"Male","19 to 64 Years","None Given","INT: Wound","None Given","2013",NA,"2","Susceptible","Levofloxacin"

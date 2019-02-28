@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"0.25","Susceptible","Ampicillin"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"0.25","Susceptible","Levofloxacin"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"2","Susceptible","Linezolid"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"<=0.25","Susceptible","Minocycline"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"0.5","Susceptible","Penicillin"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"0.03","Susceptible","Tigecycline"
+"1537315","TEST","Enterococcus hirae","Enterococcus spp","Belgium",NA,"Female","65 to 84 Years","Emergency Room","CVS: Blood","Outpatient","2016",NA,"0.5","Susceptible","Vancomycin"

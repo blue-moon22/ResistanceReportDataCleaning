@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1085348","TEST","Clostridium sphenoides","Gram Positive Anaerobes","Germany",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Feces/Stool","Inpatient","2014",NA,"2","Susceptible","Clindamycin"
+"1085348","TEST","Clostridium sphenoides","Gram Positive Anaerobes","Germany",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Feces/Stool","Inpatient","2014",NA,"1","Susceptible","Meropenem"
+"1085348","TEST","Clostridium sphenoides","Gram Positive Anaerobes","Germany",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Feces/Stool","Inpatient","2014",NA,"0.25","Susceptible","Metronidazole"
+"1085348","TEST","Clostridium sphenoides","Gram Positive Anaerobes","Germany",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Feces/Stool","Inpatient","2014",NA,"1","Intermediate","Penicillin"
+"1085348","TEST","Clostridium sphenoides","Gram Positive Anaerobes","Germany",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Feces/Stool","Inpatient","2014",NA,"16","Susceptible","Piperacillin tazobactam"
+"1085348","TEST","Clostridium sphenoides","Gram Positive Anaerobes","Germany",NA,"Male","65 to 84 Years","Medicine ICU","Bodily Fluids: Feces/Stool","Inpatient","2014",NA,"<=0.06","Susceptible","Tigecycline"

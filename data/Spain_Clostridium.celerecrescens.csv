@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1343300","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Spain",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2015",NA,"8","Resistant","Clindamycin"
+"1343300","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Spain",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2015",NA,"0.5","Susceptible","Meropenem"
+"1343300","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Spain",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2015",NA,"0.25","Susceptible","Metronidazole"
+"1343300","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Spain",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2015",NA,"1","Intermediate","Penicillin"
+"1343300","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Spain",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2015",NA,"4","Susceptible","Piperacillin tazobactam"
+"1343300","TEST","Clostridium celerecrescens","Gram Positive Anaerobes","Spain",NA,"Male","65 to 84 Years","Medicine General","Bodily Fluids: Tissue","Inpatient","2015",NA,"<=0.06","Susceptible","Tigecycline"

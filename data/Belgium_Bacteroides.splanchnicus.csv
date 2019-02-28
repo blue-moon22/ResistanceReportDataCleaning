@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"542921","TEST","Bacteroides splanchnicus","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=2","Susceptible","Cefoxitin"
+"542921","TEST","Bacteroides splanchnicus","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.25","Susceptible","Clindamycin"
+"542921","TEST","Bacteroides splanchnicus","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.06","Susceptible","Meropenem"
+"542921","TEST","Bacteroides splanchnicus","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.12","Susceptible","Metronidazole"
+"542921","TEST","Bacteroides splanchnicus","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"542921","TEST","Bacteroides splanchnicus","Gram Negative Anaerobes","Belgium",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2009",NA,"0.25","Susceptible","Tigecycline"

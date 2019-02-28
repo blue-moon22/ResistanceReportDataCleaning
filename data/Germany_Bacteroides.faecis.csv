@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1596985","TEST","Bacteroides faecis","Gram Negative Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"32","Intermediate","Cefoxitin"
+"1596985","TEST","Bacteroides faecis","Gram Negative Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,">8","Resistant","Clindamycin"
+"1596985","TEST","Bacteroides faecis","Gram Negative Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"0.12","Susceptible","Meropenem"
+"1596985","TEST","Bacteroides faecis","Gram Negative Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"0.5","Susceptible","Metronidazole"
+"1596985","TEST","Bacteroides faecis","Gram Negative Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"4","Susceptible","Piperacillin tazobactam"
+"1596985","TEST","Bacteroides faecis","Gram Negative Anaerobes","Germany",NA,"Female","19 to 64 Years","Surgery General","Bodily Fluids: Abscess / Pus","Inpatient","2017",NA,"4","Susceptible","Tigecycline"

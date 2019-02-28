@@ -1,0 +1,4 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1308856","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Vietnam",NA,"Female","85 and Over","None Given","Respiratory: Sputum","None Given","2016",NA,"2","Susceptible","Ceftazidime"
+"1308856","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Vietnam",NA,"Female","85 and Over","None Given","Respiratory: Sputum","None Given","2016",NA,"1","Susceptible","Levofloxacin"
+"1308856","TEST","Stenotrophomonas maltophilia","Non-Enterobacteriaceae","Vietnam",NA,"Female","85 and Over","None Given","Respiratory: Sputum","None Given","2016",NA,"<=0.5","Susceptible","Minocycline"

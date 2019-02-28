@@ -1,0 +1,8 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"1","Susceptible","Ampicillin"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"0.5","Susceptible","Levofloxacin"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"2","Susceptible","Linezolid"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"8","Intermediate","Minocycline"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"1","Susceptible","Penicillin"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"0.12","Susceptible","Tigecycline"
+"555418","TEST","Enterococcus hirae","Enterococcus spp","China",NA,"Male","65 to 84 Years","Medicine General","INT: Wound","Inpatient","2009",NA,"0.25","Susceptible","Vancomycin"

@@ -1,0 +1,7 @@
+"Isolate Id","Study","Species","Organism Group","Country","State","Gender","Age Group","Speciality","Source","In / Out Patient","Year","Phenotype","MIC","breakpoint","Drug"
+"1595343","TEST","Prevotella timonensis","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=2","Susceptible","Cefoxitin"
+"1595343","TEST","Prevotella timonensis","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2017",NA,">8","Resistant","Clindamycin"
+"1595343","TEST","Prevotella timonensis","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Meropenem"
+"1595343","TEST","Prevotella timonensis","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"0.5","Susceptible","Metronidazole"
+"1595343","TEST","Prevotella timonensis","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Piperacillin tazobactam"
+"1595343","TEST","Prevotella timonensis","Gram Negative Anaerobes","Hungary",NA,"Male","19 to 64 Years","Surgery General","INT: Wound","Inpatient","2017",NA,"<=0.06","Susceptible","Tigecycline"
